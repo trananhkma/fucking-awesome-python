@@ -1,7 +1,3 @@
-# Fucking Awesome Python
-
-A curated list with Github stars and forks stats based on awesome [awesome-python](https://github.com/vinta/awesome-python)
-
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
@@ -114,7 +110,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for package and dependency management.*
 
 * [:octocat: pip](https://pip.pypa.io/) - The Python package and dependency manager.
-    * [Python Package Index](https://pypi.python.org/pypi)
+    * [:octocat: Python Package Index](https://pypi.python.org/pypi)
 * [:octocat: conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 * [:octocat: Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages.
 * [:octocat: wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
@@ -124,7 +120,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Local PyPI repository server and proxies.*
 
 * [:octocat: warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
-    * [Warehouse](https://warehouse.python.org/)
+    * [:octocat: Warehouse](https://warehouse.python.org/)
 * [:octocat: bandersnatch](https://bitbucket.org/pypa/bandersnatch) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 * [:octocat: devpi](http://doc.devpi.net/) - PyPI server and packaging/testing/release tool.
 * [:octocat: localshop](https://github.com/mvantellingen/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
@@ -189,58 +185,58 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for parsing and manipulating plain texts.*
 
 * General
-    * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
-    * [difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
-    * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
-    * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
-    * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
-    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
-    * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
-    * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    * [shortuuid](https://github.com/stochastic-technologies/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-    * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
-    * [uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
-    * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
+    * [:octocat: chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+    * [:octocat: difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
+    * [:octocat: esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
+    * [:octocat: ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
+    * [:octocat: fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
+    * [:octocat: Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
+    * [:octocat: pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
+    * [:octocat: pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
+    * [:octocat: shortuuid](https://github.com/stochastic-technologies/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+    * [:octocat: unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
+    * [:octocat: uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
+    * [:octocat: xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
 * Slugify
-    * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
-    * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
-    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
+    * [:octocat: awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
+    * [:octocat: python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
+    * [:octocat: unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
 * Parser
-    * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
-    * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
-    * [Pygments](http://pygments.org/) - A generic syntax highlighter.
-    * [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
-    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
-    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
-    * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
+    * [:octocat: phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
+    * [:octocat: PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
+    * [:octocat: Pygments](http://pygments.org/) - A generic syntax highlighter.
+    * [:octocat: pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
+    * [:octocat: python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
+    * [:octocat: python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
+    * [:octocat: sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
 
 ## Specific Formats Processing
 
 *Libraries for parsing and manipulating specific text formats.*
 
 * General
-    * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+    * [:octocat: tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 * Office
-    * [Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets.
-    * [openpyxl](https://openpyxl.readthedocs.org/en/latest/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
-    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
-    * [unoconv](https://github.com/dagwieers/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice.
-    * [XlsxWriter](https://xlsxwriter.readthedocs.org/) - A Python module for creating Excel .xlsx files.
-    * [xlwings](http://xlwings.org/) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
-    * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
+    * [:octocat: Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets.
+    * [:octocat: openpyxl](https://openpyxl.readthedocs.org/en/latest/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
+    * [:octocat: python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+    * [:octocat: unoconv](https://github.com/dagwieers/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice.
+    * [:octocat: XlsxWriter](https://xlsxwriter.readthedocs.org/) - A Python module for creating Excel .xlsx files.
+    * [:octocat: xlwings](http://xlwings.org/) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
+    * [:octocat: xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
 * PDF
-    * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
-    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
-    * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+    * [:octocat: PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
+    * [:octocat: PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    * [:octocat: ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 * Markdown
-    * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
-    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
+    * [:octocat: Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
+    * [:octocat: Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
 * YAML
-    * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
+    * [:octocat: PyYAML](http://pyyaml.org/) - YAML implementations for Python.
 * CSV
-    * [csvkit](https://github.com/onyxfish/csvkit) - Utilities for converting to and working with CSV.
+    * [:octocat: csvkit](https://github.com/onyxfish/csvkit) - Utilities for converting to and working with CSV.
 * Archive
-    * [unp](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily.
+    * [:octocat: unp](https://github.com/mitsuhiko/unp) - A command line tool that can unpack archives easily.
 
 ## Natural Language Processing
 
@@ -258,7 +254,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for generating project documentation.*
 
 * [:octocat: Sphinx](http://sphinx-doc.org/) - Python Documentation generator.
-    * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
+    * [:octocat: awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 * [:octocat: MkDocs](http://www.mkdocs.org/) - Markdown friendly documentation generator.
 * [:octocat: pdoc](https://github.com/BurntSushi/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
 * [:octocat: Pycco](http://fitzgen.github.io/pycco/) - The literate-programming-style documentation generator.
@@ -277,26 +273,26 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for building command-line application.*
 
 * Command-line Application Development
-    * [cement](http://builtoncement.com/) - Providing a light-weight and fully featured foundation to build anything from single file scripts to complex and intricately designed applications.
-    * [click](http://click.pocoo.org/) - A package for creating beautiful command line interfaces in a composable way.
-    * [cliff](http://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    * [Clime](http://clime.mosky.tw) – Clime lets you convert any module into a multi-command CLI program without any configuration.
-    * [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools.
-    * [colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
-    * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    * [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line
-    * [pyCLI](https://pythonhosted.org/pyCLI/) - Command-line applications supporting standard command line parsing, logging, unit and functional testing.
-    * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A Library for building powerful interactive command lines.
+    * [:octocat: cement](http://builtoncement.com/) - Providing a light-weight and fully featured foundation to build anything from single file scripts to complex and intricately designed applications.
+    * [:octocat: click](http://click.pocoo.org/) - A package for creating beautiful command line interfaces in a composable way.
+    * [:octocat: cliff](http://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
+    * [:octocat: Clime](http://clime.mosky.tw) – Clime lets you convert any module into a multi-command CLI program without any configuration.
+    * [:octocat: clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools.
+    * [:octocat: colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
+    * [:octocat: docopt](http://docopt.org/) - Pythonic command line arguments parser.
+    * [:octocat: Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line
+    * [:octocat: pyCLI](https://pythonhosted.org/pyCLI/) - Command-line applications supporting standard command line parsing, logging, unit and functional testing.
+    * [:octocat: python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A Library for building powerful interactive command lines.
 * Productivity Tools
-    * [bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal. It's a quick way to visualize data without GUI.
-    * [caniusepython3](https://github.com/brettcannon/caniusepython3) - Determine what projects are blocking you from porting to Python 3.
-    * [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-    * [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
-    * [PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
-    * [RainbowStream](http://www.rainbowstream.org/) - Smart and nice Twitter client on terminal.
-    * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    * [:octocat: bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal. It's a quick way to visualize data without GUI.
+    * [:octocat: caniusepython3](https://github.com/brettcannon/caniusepython3) - Determine what projects are blocking you from porting to Python 3.
+    * [:octocat: cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+    * [:octocat: doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
+    * [:octocat: httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
+    * [:octocat: PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output.
+    * [:octocat: percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
+    * [:octocat: RainbowStream](http://www.rainbowstream.org/) - Smart and nice Twitter client on terminal.
+    * [:octocat: thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
 
 ## Downloader
 
@@ -396,57 +392,57 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for connecting and operating databases.*
 
 * Relational Databases
-    * [apsw](http://rogerbinns.github.io/apsw/) - Another Python SQLite wrapper.
-    * [dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
-    * [mysql-connector-python](https://pypi.python.org/pypi/mysql-connector-python) - A pure Python MySQL driver from Oracle.
-    * [mysql-python](http://sourceforge.net/projects/mysql-python/) - The MySQL database connector for Python.
-    * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - mysql-python fork supporting Python 3.
-    * [oursql](https://pythonhosted.org/oursql/) - A better MySQL connector with support for native prepared statements and BLOBs.
-    * [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
-    * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL driver compatible to mysql-python.
-    * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
-    * [txpostgres](http://txpostgres.readthedocs.org/) - Twisted based asynchronous driver for PostgreSQL.
+    * [:octocat: apsw](http://rogerbinns.github.io/apsw/) - Another Python SQLite wrapper.
+    * [:octocat: dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+    * [:octocat: mysql-connector-python](https://pypi.python.org/pypi/mysql-connector-python) - A pure Python MySQL driver from Oracle.
+    * [:octocat: mysql-python](http://sourceforge.net/projects/mysql-python/) - The MySQL database connector for Python.
+    * [:octocat: mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - mysql-python fork supporting Python 3.
+    * [:octocat: oursql](https://pythonhosted.org/oursql/) - A better MySQL connector with support for native prepared statements and BLOBs.
+    * [:octocat: psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
+    * [:octocat: PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL driver compatible to mysql-python.
+    * [:octocat: queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
+    * [:octocat: txpostgres](http://txpostgres.readthedocs.org/) - Twisted based asynchronous driver for PostgreSQL.
 * NoSQL Databases
-    * [cassandra-python-driver](https://github.com/datastax/python-driver) - Python driver for Cassandra.
-    * [HappyBase](http://happybase.readthedocs.org/) - A developer-friendly library for Apache HBase.
-    * [Plyvel](https://plyvel.readthedocs.org/) - A fast and feature-rich Python interface to LevelDB.
-    * [py2neo](http://book.py2neo.org/) - Python wrapper client for Neo4j's restful interface.
-    * [pycassa](https://github.com/pycassa/pycassa) - Python Thrift driver for Cassandra.
-    * [PyMongo](http://docs.mongodb.org/ecosystem/drivers/python/) - The official Python client for MongoDB.
-    * [redis-py](https://github.com/andymccurdy/redis-py) - The Redis Python Client.
-    * [telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra.
-    * [txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
+    * [:octocat: cassandra-python-driver](https://github.com/datastax/python-driver) - Python driver for Cassandra.
+    * [:octocat: HappyBase](http://happybase.readthedocs.org/) - A developer-friendly library for Apache HBase.
+    * [:octocat: Plyvel](https://plyvel.readthedocs.org/) - A fast and feature-rich Python interface to LevelDB.
+    * [:octocat: py2neo](http://book.py2neo.org/) - Python wrapper client for Neo4j's restful interface.
+    * [:octocat: pycassa](https://github.com/pycassa/pycassa) - Python Thrift driver for Cassandra.
+    * [:octocat: PyMongo](http://docs.mongodb.org/ecosystem/drivers/python/) - The official Python client for MongoDB.
+    * [:octocat: redis-py](https://github.com/andymccurdy/redis-py) - The Redis Python Client.
+    * [:octocat: telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra.
+    * [:octocat: txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
 
 ## ORM
 
 *Libraries that implement Object-Relational Mapping or data mapping techniques.*
 
 * Relational Databases
-    * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - A part of Django.
-    * [SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
-        * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
-    * [peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
-    * [PonyORM](http://ponyorm.com) - ORM that provides a generator-oriented interface to SQL.
+    * [:octocat: Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - A part of Django.
+    * [:octocat: SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
+        * [:octocat: awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
+    * [:octocat: peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
+    * [:octocat: PonyORM](http://ponyorm.com) - ORM that provides a generator-oriented interface to SQL.
 * NoSQL Databases
-    * [django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine) - Django MongoDB Backend.
-    * [PynamoDB](https://github.com/jlafon/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-    * [flywheel](https://github.com/mathcamp/flywheel) - Object mapper for Amazon DynamoDB.
-    * [MongoEngine](http://mongoengine.org/) - A Python Object-Document-Mapper for working with MongoDB.
-    * [hot-redis](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis.
-    * [redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
+    * [:octocat: django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine) - Django MongoDB Backend.
+    * [:octocat: PynamoDB](https://github.com/jlafon/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
+    * [:octocat: flywheel](https://github.com/mathcamp/flywheel) - Object mapper for Amazon DynamoDB.
+    * [:octocat: MongoEngine](http://mongoengine.org/) - A Python Object-Document-Mapper for working with MongoDB.
+    * [:octocat: hot-redis](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis.
+    * [:octocat: redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
 * Others
-    * [butterdb](https://github.com/Widdershin/butterdb) - A Python ORM for Google Drive Spreadsheets.
+    * [:octocat: butterdb](https://github.com/Widdershin/butterdb) - A Python ORM for Google Drive Spreadsheets.
 
 ## Web Frameworks
 
 *Full stack web frameworks.*
 
 * [:octocat: Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-    * [awesome-django](https://github.com/rosarior/awesome-django)
+    * [:octocat: awesome-django](https://github.com/rosarior/awesome-django)
 * [:octocat: Flask](http://flask.pocoo.org/) - A microframework for Python.
-    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+    * [:octocat: awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 * [:octocat: Pyramid](http://www.pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-    * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid)
+    * [:octocat: awesome-pyramid](https://github.com/ITCase/awesome-pyramid)
 * [:octocat: Bluebream](http://bluebream.zope.org/) - An open-source web application server, framework and library, formerly known as Zope 3.
 * [:octocat: Bottle](http://bottlepy.org/) - A fast, simple and lightweight WSGI micro web-framework.
 * [:octocat: CherryPy](http://www.cherrypy.org/) - A Minimalist Python Web Framework, HTTP/1.1-compliant and WSGI thread-pooled.
@@ -516,21 +512,21 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [Authomatic](http://peterhudec.github.io/authomatic/) - Simple but powerful framework agnostic authentication/authorization client.
-    * [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
-    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts.
-    * [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Providing OAuth2 access to Django app.
-    * [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
-    * [OAuthLib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
-    * [python-oauth2](https://github.com/simplegeo/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
-    * [python-social-auth](https://github.com/omab/python-social-auth) - An easy-to-setup social authentication mechanism.
-    * [rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly.
-    * [sanction](https://github.com/demianbrecht/sanction) - A dead simple OAuth2 client implementation.
+    * [:octocat: Authomatic](http://peterhudec.github.io/authomatic/) - Simple but powerful framework agnostic authentication/authorization client.
+    * [:octocat: django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
+    * [:octocat: django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts.
+    * [:octocat: django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Providing OAuth2 access to Django app.
+    * [:octocat: Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
+    * [:octocat: OAuthLib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
+    * [:octocat: python-oauth2](https://github.com/simplegeo/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
+    * [:octocat: python-social-auth](https://github.com/omab/python-social-auth) - An easy-to-setup social authentication mechanism.
+    * [:octocat: rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly.
+    * [:octocat: sanction](https://github.com/demianbrecht/sanction) - A dead simple OAuth2 client implementation.
 * Others
-    * [jose](https://github.com/demonware/jose) - JavaScript Object Signing and Encryption draft implementation.
-    * [PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01.
-    * [python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02.
-    * [python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens.
+    * [:octocat: jose](https://github.com/demonware/jose) - JavaScript Object Signing and Encryption draft implementation.
+    * [:octocat: PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01.
+    * [:octocat: python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02.
+    * [:octocat: python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens.
 
 ## Template Engine
 
@@ -846,41 +842,41 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for testing codebases and generating test data.*
 
 * Testing Frameworks
-    * [unittest](https://docs.python.org/2/library/unittest.html) - (Python standard library) Unit testing framework.
-    * [nose](https://nose.readthedocs.org/) - nose extends unittest.
-    * [contexts](https://github.com/benjamin-hodgson/Contexts) - A BDD framework for Python 3.3+. Inspired by C#'s `Machine.Specifications`.
-    * [hypothesis](https://github.com/DRMacIver/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-    * [mamba](https://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
-    * [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on [PyHamcrest](https://github.com/hamcrest/PyHamcrest).
-    * [pytest](http://pytest.org/) - A mature full-featured Python testing tool.
-    * [pyvows](http://heynemann.github.io/pyvows/) - BDD style testing for Python. Inspired by [Vows.js](http://vowsjs.org/).
-    * [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    * [:octocat: unittest](https://docs.python.org/2/library/unittest.html) - (Python standard library) Unit testing framework.
+    * [:octocat: nose](https://nose.readthedocs.org/) - nose extends unittest.
+    * [:octocat: contexts](https://github.com/benjamin-hodgson/Contexts) - A BDD framework for Python 3.3+. Inspired by C#'s `Machine.Specifications`.
+    * [:octocat: hypothesis](https://github.com/DRMacIver/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+    * [:octocat: mamba](https://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
+    * [:octocat: PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    * [:octocat: pyshould](https://github.com/drslump/pyshould) - Should style asserts based on [PyHamcrest](https://github.com/hamcrest/PyHamcrest).
+    * [:octocat: pytest](http://pytest.org/) - A mature full-featured Python testing tool.
+    * [:octocat: pyvows](http://heynemann.github.io/pyvows/) - BDD style testing for Python. Inspired by [Vows.js](http://vowsjs.org/).
+    * [:octocat: Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
 * Web Testing
-    * [Selenium](https://pypi.python.org/pypi/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-    * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    * [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
-    * [splinter](https://splinter.readthedocs.org/en/latest/) - Open source tool for testing web applications.
+    * [:octocat: Selenium](https://pypi.python.org/pypi/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
+    * [:octocat: locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    * [:octocat: sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
+    * [:octocat: splinter](https://splinter.readthedocs.org/en/latest/) - Open source tool for testing web applications.
 * Mock
-    * [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    * [doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
-    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-    * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
-    * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
-    * [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
+    * [:octocat: mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
+    * [:octocat: doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
+    * [:octocat: freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    * [:octocat: httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    * [:octocat: httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
+    * [:octocat: responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
+    * [:octocat: VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 * Object Factories
-    * [factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python.
-    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
-    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+    * [:octocat: factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python.
+    * [:octocat: mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
+    * [:octocat: model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 * Code Coverage
-    * [coverage](https://pypi.python.org/pypi/coverage) - Code coverage measurement.
+    * [:octocat: coverage](https://pypi.python.org/pypi/coverage) - Code coverage measurement.
 * Fake Data
-    * [faker](http://www.joke2k.net/faker/) - A Python package that generates fake data.
-    * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
-    * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
+    * [:octocat: faker](http://www.joke2k.net/faker/) - A Python package that generates fake data.
+    * [:octocat: fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
+    * [:octocat: radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 * Error Handler
-    * [FuckIt.py](https://github.com/ajalt/fuckitpy) - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
+    * [:octocat: FuckIt.py](https://github.com/ajalt/fuckitpy) - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
 
 
 ## Code Analysis and Linter
@@ -888,34 +884,34 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * Code Analysis
-    * [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
-    * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
+    * [:octocat: code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
+    * [:octocat: pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
+    * [:octocat: pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * Linter
-    * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
-    * [Pylint](http://www.pylint.org/) - A source code analyzer.
-    * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
+    * [:octocat: Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
+    * [:octocat: Pylint](http://www.pylint.org/) - A source code analyzer.
+    * [:octocat: pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
 
 ## Debugging Tools
 
 *Libraries for debugging code.*
 
 * Debugger
-    * [ipdb](https://pypi.python.org/pypi/ipdb) - IPython-enabled [pdb](https://docs.python.org/2/library/pdb.html).
-    * [pudb](https://pypi.python.org/pypi/pudb) – A full-screen, console-based Python debugger.
-    * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets.
-    * [winpdb](http://winpdb.org/) - A Platform Independent Python Debugger with GUI, capable of remote debugging based on rpdb2.
-    * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response.
-    * [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
-    * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
+    * [:octocat: ipdb](https://pypi.python.org/pypi/ipdb) - IPython-enabled [pdb](https://docs.python.org/2/library/pdb.html).
+    * [:octocat: pudb](https://pypi.python.org/pypi/pudb) – A full-screen, console-based Python debugger.
+    * [:octocat: pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
+    * [:octocat: wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets.
+    * [:octocat: winpdb](http://winpdb.org/) - A Platform Independent Python Debugger with GUI, capable of remote debugging based on rpdb2.
+    * [:octocat: django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response.
+    * [:octocat: django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
+    * [:octocat: flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
 * Profiler
-    * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-    * [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    * [profiling](https://github.com/what-studio/profiling) - An interactive Python profiler.
+    * [:octocat: line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+    * [:octocat: memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
+    * [:octocat: profiling](https://github.com/what-studio/profiling) - An interactive Python profiler.
 * Others
-    * [pyelftools](https://github.com/eliben/pyelftools) - A pure-Python library for parsing and analyzing ELF files and DWARF debugging information.
-    * [python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the [statsd](https://github.com/etsy/statsd/) server.
+    * [:octocat: pyelftools](https://github.com/eliben/pyelftools) - A pure-Python library for parsing and analyzing ELF files and DWARF debugging information.
+    * [:octocat: python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the [statsd](https://github.com/etsy/statsd/) server.
 
 ## Science and Data Analysis
 
@@ -1122,16 +1118,16 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Plugins for editors and IDEs.*
 
 * Emacs
-    * [Elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
+    * [:octocat: Elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
 * Sublime Text
-    * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi.
-    * [Anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
+    * [:octocat: SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi.
+    * [:octocat: Anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
 * Vim
-    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python.
-    * [Jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python.
-    * [Python-mode](https://github.com/klen/python-mode) - An all in one plugin for turning Vim into a Python IDE.
+    * [:octocat: YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python.
+    * [:octocat: Jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python.
+    * [:octocat: Python-mode](https://github.com/klen/python-mode) - An all in one plugin for turning Vim into a Python IDE.
 * Visual Studio
-    * [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio.
+    * [:octocat: PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio.
 
 ## IDEs
 
@@ -1197,13 +1193,13 @@ Where to discover new Python libraries.
 List of lists.
 
 * Python
-    * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
-    * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
-    * [python_reference](https://github.com/rasbt/python_reference)
-    * [pythonidae](https://github.com/svaksha/pythonidae)
+    * [:octocat: pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+    * [:octocat: python-github-projects](https://github.com/checkcheckzz/python-github-projects)
+    * [:octocat: python_reference](https://github.com/rasbt/python_reference)
+    * [:octocat: pythonidae](https://github.com/svaksha/pythonidae)
 * Monty
-    * [awesome](https://github.com/sindresorhus/awesome)
-    * [lists](https://github.com/jnv/lists)
+    * [:octocat: awesome](https://github.com/sindresorhus/awesome)
+    * [:octocat: lists](https://github.com/jnv/lists)
 
 # [Contributing](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)
 
