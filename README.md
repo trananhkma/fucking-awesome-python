@@ -102,8 +102,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for Python version and environment management.*
 
-* [:octocat: p](https://github.com/qw3rtman/p) - Dead simple interactive Python version management. :star: 491 :fork_and_knife: 14
-* [:octocat: pyenv](https://github.com/yyuu/pyenv) - Simple Python version management. :star: 3190 :fork_and_knife: 233
+* [:octocat: p](https://github.com/qw3rtman/p) - Dead simple interactive Python version management. :star: 492 :fork_and_knife: 14
+* [:octocat: pyenv](https://github.com/yyuu/pyenv) - Simple Python version management. :star: 3198 :fork_and_knife: 233
 * [:earth_americas: PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
 * [:octocat: Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv. :star: 254 :fork_and_knife: 14
 * [:earth_americas: virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
@@ -115,7 +115,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: pip](https://pip.pypa.io/) - The Python package and dependency manager.
     * [:earth_americas: Python Package Index](https://pypi.python.org/pypi)
-* [:octocat: conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager. :star: 480 :fork_and_knife: 165
+* [:octocat: conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager. :star: 480 :fork_and_knife: 167
 * [:earth_americas: Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages.
 * [:earth_americas: wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
 
@@ -123,7 +123,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Local PyPI repository server and proxies.*
 
-* [:octocat: warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI). :star: 287 :fork_and_knife: 64
+* [:octocat: warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI). :star: 288 :fork_and_knife: 64
     * [:earth_americas: Warehouse](https://warehouse.python.org/)
 * [:earth_americas: bandersnatch](https://bitbucket.org/pypa/bandersnatch) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 * [:earth_americas: devpi](http://doc.devpi.net/) - PyPI server and packaging/testing/release tool.
@@ -133,7 +133,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries to create packaged executables for release distribution.*
 
-* [:octocat: PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform). :star: 1184 :fork_and_knife: 331
+* [:octocat: PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform). :star: 1189 :fork_and_knife: 330
 * [:earth_americas: dh-virtualenv](http://dh-virtualenv.readthedocs.org/) - Build and distribute a virtualenv as a Debian package.
 * [:earth_americas: Nuitka](http://nuitka.net/) - Compile scripts, modules, packages to an executable or extension module.
 * [:earth_americas: py2app](http://pythonhosted.org/py2app/) - Freezes Python scripts (Mac OS X).
@@ -147,17 +147,17 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: buildout](http://www.buildout.org/) - A build system for creating, assembling and deploying applications from multiple parts.
 * [:earth_americas: BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
 * [:earth_americas: fabricate](https://code.google.com/p/fabricate/) - A build tool that finds dependencies automatically for any language.
-* [:octocat: PlatformIO](https://github.com/ivankravets/platformio) - A console tool to build code with different development platforms. :star: 283 :fork_and_knife: 38
-* [:octocat: PyBuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python. :star: 477 :fork_and_knife: 115
+* [:octocat: PlatformIO](https://github.com/ivankravets/platformio) - A console tool to build code with different development platforms. :star: 283 :fork_and_knife: 39
+* [:octocat: PyBuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python. :star: 478 :fork_and_knife: 116
 * [:earth_americas: SCons](http://www.scons.org/) - A software construction tool.
 
 ## Interactive Interpreter
 
 *Interactive Python interpreters (REPL).*
 
-* [:octocat: IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively. :star: 7602 :fork_and_knife: 2253
+* [:octocat: IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively. :star: 7616 :fork_and_knife: 2256
 * [:earth_americas: bpython](http://bpython-interpreter.org) – A fancy interface to the Python interpreter.
-* [:octocat: ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). :star: 810 :fork_and_knife: 21
+* [:octocat: ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). :star: 811 :fork_and_knife: 21
 
 ## Files
 
@@ -165,17 +165,17 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: imghdr](https://docs.python.org/2/library/imghdr.html) - (Python standard library) Determine the type of an image.
 * [:earth_americas: mimetypes](https://docs.python.org/2/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
-* [:octocat: path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/2/library/os.path.html). :star: 540 :fork_and_knife: 71
+* [:octocat: path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/2/library/os.path.html). :star: 541 :fork_and_knife: 71
 * [:earth_americas: pathlib](https://pathlib.readthedocs.org/en/pep428/) - (Python standard library in Python 3.4+) An cross-platform, object-oriented path library.
 * [:octocat: python-magic](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library. :star: 525 :fork_and_knife: 83
 * [:octocat: Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to file/directory operations. :star: 317 :fork_and_knife: 27
-* [:octocat: watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events. :star: 1805 :fork_and_knife: 237
+* [:octocat: watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events. :star: 1807 :fork_and_knife: 237
 
 ## Date and Time
 
 *Libraries for working with dates and times.*
 
-* [:octocat: arrow](https://github.com/crsmithdev/arrow) - Better dates & times for Python. :star: 2530 :fork_and_knife: 215
+* [:octocat: arrow](https://github.com/crsmithdev/arrow) - Better dates & times for Python. :star: 2531 :fork_and_knife: 215
 * [:octocat: Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates. :star: 202 :fork_and_knife: 7
 * [:earth_americas: dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/2/library/datetime.html) module.
 * [:octocat: delorean](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes. :star: 844 :fork_and_knife: 49
@@ -192,8 +192,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector. :star: 377 :fork_and_knife: 62
     * [:earth_americas: difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     * [:earth_americas: esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
-    * [:octocat: ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically. :star: 1027 :fork_and_knife: 37
-    * [:octocat: fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching. :star: 2007 :fork_and_knife: 177
+    * [:octocat: ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically. :star: 1028 :fork_and_knife: 37
+    * [:octocat: fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching. :star: 2007 :fork_and_knife: 178
     * [:octocat: Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity. :star: 152 :fork_and_knife: 32
     * [:octocat: pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics. :star: 30 :fork_and_knife: 6
     * [:octocat: pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python. :star: 117 :fork_and_knife: 12
@@ -206,12 +206,12 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII. :star: 175 :fork_and_knife: 26
     * [:octocat: unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency. :star: 169 :fork_and_knife: 29
 * Parser
-    * [:octocat: phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers. :star: 983 :fork_and_knife: 127
+    * [:octocat: phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers. :star: 984 :fork_and_knife: 127
     * [:earth_americas: PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
     * [:earth_americas: Pygments](http://pygments.org/) - A generic syntax highlighter.
     * [:earth_americas: pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
     * [:octocat: python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components. :star: 106 :fork_and_knife: 18
-    * [:octocat: python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser. :star: 243 :fork_and_knife: 53
+    * [:octocat: python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser. :star: 244 :fork_and_knife: 53
     * [:earth_americas: sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
 
 ## Specific Formats Processing
@@ -219,22 +219,22 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for parsing and manipulating specific text formats.*
 
 * General
-    * [:octocat: tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML. :star: 1586 :fork_and_knife: 221
+    * [:octocat: tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML. :star: 1589 :fork_and_knife: 221
 * Office
     * [:octocat: Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets. :star: 109 :fork_and_knife: 15
     * [:earth_americas: openpyxl](https://openpyxl.readthedocs.org/en/latest/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
-    * [:octocat: python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files. :star: 368 :fork_and_knife: 134
-    * [:octocat: unoconv](https://github.com/dagwieers/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice. :star: 597 :fork_and_knife: 196
+    * [:octocat: python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files. :star: 369 :fork_and_knife: 134
+    * [:octocat: unoconv](https://github.com/dagwieers/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice. :star: 597 :fork_and_knife: 197
     * [:earth_americas: XlsxWriter](https://xlsxwriter.readthedocs.org/) - A Python module for creating Excel .xlsx files.
     * [:earth_americas: xlwings](http://xlwings.org/) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
     * [:octocat: xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files. :star: 440 :fork_and_knife: 153
 * PDF
-    * [:octocat: PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents. :star: 1221 :fork_and_knife: 306
-    * [:octocat: PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages. :star: 748 :fork_and_knife: 230
+    * [:octocat: PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents. :star: 1222 :fork_and_knife: 308
+    * [:octocat: PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages. :star: 749 :fork_and_knife: 230
     * [:earth_americas: ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 * Markdown
     * [:octocat: Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown. :star: 478 :fork_and_knife: 34
-    * [:octocat: Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown. :star: 766 :fork_and_knife: 215
+    * [:octocat: Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown. :star: 767 :fork_and_knife: 216
 * YAML
     * [:earth_americas: PyYAML](http://pyyaml.org/) - YAML implementations for Python.
 * CSV
@@ -247,8 +247,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for working with human languages.*
 
 * [:earth_americas: NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-* [:octocat: jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities. :star: 3771 :fork_and_knife: 1178
-* [:octocat: langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system. :star: 436 :fork_and_knife: 79
+* [:octocat: jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities. :star: 3780 :fork_and_knife: 1181
+* [:octocat: langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system. :star: 437 :fork_and_knife: 79
 * [:earth_americas: Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python.
 * [:octocat: SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text. :star: 1034 :fork_and_knife: 271
 * [:earth_americas: TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common NLP tasks.
@@ -260,7 +260,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: Sphinx](http://sphinx-doc.org/) - Python Documentation generator.
     * [:octocat: awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) :star: 116 :fork_and_knife: 8
 * [:earth_americas: MkDocs](http://www.mkdocs.org/) - Markdown friendly documentation generator.
-* [:octocat: pdoc](https://github.com/BurntSushi/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries. :star: 123 :fork_and_knife: 24
+* [:octocat: pdoc](https://github.com/BurntSushi/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries. :star: 123 :fork_and_knife: 25
 * [:earth_americas: Pycco](http://fitzgen.github.io/pycco/) - The literate-programming-style documentation generator.
 
 ## Configuration
@@ -281,32 +281,32 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:earth_americas: click](http://click.pocoo.org/) - A package for creating beautiful command line interfaces in a composable way.
     * [:earth_americas: cliff](http://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
     * [:earth_americas: Clime](http://clime.mosky.tw) – Clime lets you convert any module into a multi-command CLI program without any configuration.
-    * [:octocat: clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools. :star: 1813 :fork_and_knife: 168
+    * [:octocat: clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools. :star: 1815 :fork_and_knife: 168
     * [:earth_americas: colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
     * [:earth_americas: docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    * [:octocat: Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line :star: 3690 :fork_and_knife: 174
+    * [:octocat: Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line :star: 3691 :fork_and_knife: 174
     * [:earth_americas: pyCLI](https://pythonhosted.org/pyCLI/) - Command-line applications supporting standard command line parsing, logging, unit and functional testing.
     * [:octocat: python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A Library for building powerful interactive command lines. :star: 1722 :fork_and_knife: 81
 * Productivity Tools
     * [:octocat: bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal. It's a quick way to visualize data without GUI. :star: 321 :fork_and_knife: 26
     * [:octocat: caniusepython3](https://github.com/brettcannon/caniusepython3) - Determine what projects are blocking you from porting to Python 3. :star: 207 :fork_and_knife: 20
-    * [:octocat: cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects. :star: 2383 :fork_and_knife: 288
-    * [:octocat: doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal. :star: 601 :fork_and_knife: 18
-    * [:octocat: httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement. :star: 18078 :fork_and_knife: 1031
-    * [:octocat: PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output. :star: 2536 :fork_and_knife: 122
-    * [:octocat: percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX. :star: 1796 :fork_and_knife: 72
+    * [:octocat: cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects. :star: 2393 :fork_and_knife: 289
+    * [:octocat: doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal. :star: 602 :fork_and_knife: 19
+    * [:octocat: httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement. :star: 18089 :fork_and_knife: 1029
+    * [:octocat: PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output. :star: 2539 :fork_and_knife: 122
+    * [:octocat: percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX. :star: 1799 :fork_and_knife: 72
     * [:earth_americas: RainbowStream](http://www.rainbowstream.org/) - Smart and nice Twitter client on terminal.
-    * [:octocat: thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command. :star: 14424 :fork_and_knife: 682
+    * [:octocat: thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command. :star: 14531 :fork_and_knife: 683
 
 ## Downloader
 
 *Libraries for downloading.*
 
-* [:octocat: coursera](https://github.com/coursera-dl/coursera) - Script for downloading Coursera.org videos and naming them. :star: 2499 :fork_and_knife: 918
+* [:octocat: coursera](https://github.com/coursera-dl/coursera) - Script for downloading Coursera.org videos and naming them. :star: 2502 :fork_and_knife: 919
 * [:octocat: s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront. :star: 1580 :fork_and_knife: 522
-* [:octocat: s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance. :star: 284 :fork_and_knife: 55
-* [:octocat: subliminal](https://github.com/Diaoul/subliminal) - Library and command line tool to search and download subtitles. :star: 785 :fork_and_knife: 181
-* [:octocat: WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. :star: 80 :fork_and_knife: 28
+* [:octocat: s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance. :star: 286 :fork_and_knife: 55
+* [:octocat: subliminal](https://github.com/Diaoul/subliminal) - Library and command line tool to search and download subtitles. :star: 786 :fork_and_knife: 183
+* [:octocat: WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. :star: 80 :fork_and_knife: 29
 * [:earth_americas: you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [:earth_americas: youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 
@@ -317,21 +317,21 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: pillow](http://pillow.readthedocs.org/) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
 * [:octocat: hmap](https://github.com/rossgoodwin/hmap) - Image histogram remapping. :star: 98 :fork_and_knife: 5
 * [:earth_americas: imgSeek](http://www.imgseek.net/) - A project for searching a collection of images using visual similarity.
-* [:octocat: nude.py](https://github.com/hhatto/nude.py) - Nudity detection. :star: 285 :fork_and_knife: 29
+* [:octocat: nude.py](https://github.com/hhatto/nude.py) - Nudity detection. :star: 284 :fork_and_knife: 29
 * [:earth_americas: pyBarcode](https://pythonhosted.org/pyBarcode/) - Create barcodes in Python without needing PIL.
-* [:octocat: pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters. :star: 32 :fork_and_knife: 4
+* [:octocat: pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters. :star: 33 :fork_and_knife: 4
 * [:octocat: python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator. :star: 728 :fork_and_knife: 169
 * [:octocat: Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees. :star: 488 :fork_and_knife: 35
 * [:earth_americas: scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
-* [:octocat: thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images. :star: 3330 :fork_and_knife: 310
-* [:octocat: wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick. :star: 488 :fork_and_knife: 116
+* [:octocat: thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images. :star: 3333 :fork_and_knife: 310
+* [:octocat: wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick. :star: 488 :fork_and_knife: 115
 
 ## OCR
 
 *Libraries for Optical Character Recognition.*
 
 * [:octocat: pyocr](https://github.com/jflesch/pyocr) - A wrapper for Tesseract and Cuneiform. :star: 157 :fork_and_knife: 36
-* [:octocat: pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for Google Tesseract OCR. :star: 290 :fork_and_knife: 71
+* [:octocat: pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for Google Tesseract OCR. :star: 291 :fork_and_knife: 71
 * [:earth_americas: python-tesseract](https://code.google.com/p/python-tesseract) - A wrapper class for [Google Tesseract OCR](https://code.google.com/p/tesseract-ocr/).
 
 ## Audio
@@ -341,14 +341,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:octocat: audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python. :star: 187 :fork_and_knife: 17
 * [:octocat: audioread](https://github.com/sampsyo/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding. :star: 78 :fork_and_knife: 21
 * [:earth_americas: beets](http://beets.radbox.org/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-* [:octocat: dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition. :star: 1800 :fork_and_knife: 291
+* [:octocat: dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition. :star: 1801 :fork_and_knife: 291
 * [:octocat: django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder) - Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/). :star: 17 :fork_and_knife: 10
 * [:earth_americas: eyeD3](http://eyed3.nicfit.net/) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
 * [:earth_americas: id3reader](http://nedbatchelder.com/code/modules/id3reader.py) - A Python module for reading MP3 meta data.
-* [:octocat: m3u8](https://github.com/globocom/m3u8) - A module for parsing m3u8 file. :star: 124 :fork_and_knife: 50
+* [:octocat: m3u8](https://github.com/globocom/m3u8) - A module for parsing m3u8 file. :star: 124 :fork_and_knife: 51
 * [:earth_americas: mutagen](https://bitbucket.org/lazka/mutagen) - A Python module to handle audio metadata.
-* [:octocat: pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface. :star: 1224 :fork_and_knife: 114
-* [:octocat: pyechonest](https://github.com/echonest/pyechonest) - Python client for the [Echo Nest](http://developer.echonest.com/docs/) API. :star: 488 :fork_and_knife: 904
+* [:octocat: pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface. :star: 1227 :fork_and_knife: 114
+* [:octocat: pyechonest](https://github.com/echonest/pyechonest) - Python client for the [Echo Nest](http://developer.echonest.com/docs/) API. :star: 488 :fork_and_knife: 905
 * [:earth_americas: talkbox](http://scikits.appspot.com/talkbox) - A Python library for speech/signal processing.
 * [:octocat: TimeSide](https://github.com/yomguy/TimeSide) - Open web audio processing framework. :star: 130 :fork_and_knife: 14
 * [:octocat: tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files. :star: 136 :fork_and_knife: 14
@@ -367,20 +367,20 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 * [:octocat: GeoIP](https://github.com/maxmind/geoip-api-python) - Python API for MaxMind GeoIP Legacy Database. :star: 104 :fork_and_knife: 30
-* [:octocat: geojson](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON. :star: 163 :fork_and_knife: 26
+* [:octocat: geojson](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON. :star: 163 :fork_and_knife: 27
 * [:octocat: geopy](https://github.com/geopy/geopy) - Python Geocoding Toolbox. :star: 864 :fork_and_knife: 227
 * [:octocat: pygeoip](https://github.com/appliedsec/pygeoip) - Pure Python GeoIP API. :star: 375 :fork_and_knife: 82
-* [:octocat: django-countries](https://github.com/SmileyChris/django-countries) - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models. :star: 184 :fork_and_knife: 68
+* [:octocat: django-countries](https://github.com/SmileyChris/django-countries) - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models. :star: 186 :fork_and_knife: 69
 
 ## HTTP
 
 *Libraries for working with HTTP.*
 
 * [:earth_americas: requests](http://docs.python-requests.org/) - HTTP Requests for Humans™.
-* [:octocat: grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests. :star: 1120 :fork_and_knife: 133
+* [:octocat: grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests. :star: 1125 :fork_and_knife: 133
 * [:octocat: httplib2](https://github.com/jcgregorio/httplib2) - Comprehensive HTTP client library. :star: 291 :fork_and_knife: 145
 * [:octocat: treq](https://github.com/dreid/treq) - Python requests like API built on top of Twisted's HTTP client. :star: 210 :fork_and_knife: 59
-* [:octocat: urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly. :star: 914 :fork_and_knife: 278
+* [:octocat: urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly. :star: 914 :fork_and_knife: 277
 
 ## Database
 
@@ -388,7 +388,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: pickleDB](https://pythonhosted.org/pickleDB/) - A simple and lightweight key-value store for Python.
 * [:earth_americas: PipelineDB](http://www.pipelinedb.com/) - The Streaming SQL Database.
-* [:octocat: TinyDB](https://github.com/msiemens/tinydb) - A tiny, document-oriented database. :star: 536 :fork_and_knife: 39
+* [:octocat: TinyDB](https://github.com/msiemens/tinydb) - A tiny, document-oriented database. :star: 537 :fork_and_knife: 39
 * [:earth_americas: ZODB](http://www.zodb.org/) - A native object database for Python. A key-value and object graph database.
 
 ## Database Drivers
@@ -400,10 +400,10 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL. :star: 1554 :fork_and_knife: 99
     * [:earth_americas: mysql-connector-python](https://pypi.python.org/pypi/mysql-connector-python) - A pure Python MySQL driver from Oracle.
     * [:earth_americas: mysql-python](http://sourceforge.net/projects/mysql-python/) - The MySQL database connector for Python.
-    * [:octocat: mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - mysql-python fork supporting Python 3. :star: 174 :fork_and_knife: 18
+    * [:octocat: mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - mysql-python fork supporting Python 3. :star: 175 :fork_and_knife: 18
     * [:earth_americas: oursql](https://pythonhosted.org/oursql/) - A better MySQL connector with support for native prepared statements and BLOBs.
     * [:earth_americas: psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
-    * [:octocat: PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL driver compatible to mysql-python. :star: 1232 :fork_and_knife: 292
+    * [:octocat: PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL driver compatible to mysql-python. :star: 1234 :fork_and_knife: 292
     * [:octocat: queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL. :star: 111 :fork_and_knife: 7
     * [:earth_americas: txpostgres](http://txpostgres.readthedocs.org/) - Twisted based asynchronous driver for PostgreSQL.
 * NoSQL Databases
@@ -413,7 +413,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:earth_americas: py2neo](http://book.py2neo.org/) - Python wrapper client for Neo4j's restful interface.
     * [:octocat: pycassa](https://github.com/pycassa/pycassa) - Python Thrift driver for Cassandra. :star: 488 :fork_and_knife: 133
     * [:earth_americas: PyMongo](http://docs.mongodb.org/ecosystem/drivers/python/) - The official Python client for MongoDB.
-    * [:octocat: redis-py](https://github.com/andymccurdy/redis-py) - The Redis Python Client. :star: 3592 :fork_and_knife: 886
+    * [:octocat: redis-py](https://github.com/andymccurdy/redis-py) - The Redis Python Client. :star: 3594 :fork_and_knife: 887
     * [:octocat: telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra. :star: 90 :fork_and_knife: 32
     * [:octocat: txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis. :star: 96 :fork_and_knife: 30
 
@@ -424,12 +424,12 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * Relational Databases
     * [:earth_americas: Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - A part of Django.
     * [:earth_americas: SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
-        * [:octocat: awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) :star: 913 :fork_and_knife: 57
-    * [:octocat: peewee](https://github.com/coleifer/peewee) - A small, expressive ORM. :star: 2226 :fork_and_knife: 363
+        * [:octocat: awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) :star: 914 :fork_and_knife: 57
+    * [:octocat: peewee](https://github.com/coleifer/peewee) - A small, expressive ORM. :star: 2228 :fork_and_knife: 364
     * [:earth_americas: PonyORM](http://ponyorm.com) - ORM that provides a generator-oriented interface to SQL.
 * NoSQL Databases
-    * [:octocat: django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine) - Django MongoDB Backend. :star: 573 :fork_and_knife: 176
-    * [:octocat: PynamoDB](https://github.com/jlafon/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/). :star: 129 :fork_and_knife: 38
+    * [:octocat: django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine) - Django MongoDB Backend. :star: 572 :fork_and_knife: 176
+    * [:octocat: PynamoDB](https://github.com/jlafon/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/). :star: 130 :fork_and_knife: 38
     * [:octocat: flywheel](https://github.com/mathcamp/flywheel) - Object mapper for Amazon DynamoDB. :star: 38 :fork_and_knife: 7
     * [:earth_americas: MongoEngine](http://mongoengine.org/) - A Python Object-Document-Mapper for working with MongoDB.
     * [:octocat: hot-redis](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis. :star: 156 :fork_and_knife: 9
@@ -442,11 +442,11 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Full stack web frameworks.*
 
 * [:earth_americas: Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-    * [:octocat: awesome-django](https://github.com/rosarior/awesome-django) :star: 2776 :fork_and_knife: 432
+    * [:octocat: awesome-django](https://github.com/rosarior/awesome-django) :star: 2780 :fork_and_knife: 433
 * [:earth_americas: Flask](http://flask.pocoo.org/) - A microframework for Python.
-    * [:octocat: awesome-flask](https://github.com/humiaozuzu/awesome-flask) :star: 1513 :fork_and_knife: 196
+    * [:octocat: awesome-flask](https://github.com/humiaozuzu/awesome-flask) :star: 1514 :fork_and_knife: 197
 * [:earth_americas: Pyramid](http://www.pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-    * [:octocat: awesome-pyramid](https://github.com/ITCase/awesome-pyramid) :star: 185 :fork_and_knife: 18
+    * [:octocat: awesome-pyramid](https://github.com/ITCase/awesome-pyramid) :star: 186 :fork_and_knife: 18
 * [:earth_americas: Bluebream](http://bluebream.zope.org/) - An open-source web application server, framework and library, formerly known as Zope 3.
 * [:earth_americas: Bottle](http://bottlepy.org/) - A fast, simple and lightweight WSGI micro web-framework.
 * [:earth_americas: CherryPy](http://www.cherrypy.org/) - A Minimalist Python Web Framework, HTTP/1.1-compliant and WSGI thread-pooled.
@@ -461,8 +461,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries that allow or deny users access to data or functionality.*
 
 * [:earth_americas: Carteblanche](http://www.github.com/neuman/python-carteblanche/) - Module to align code with thoughts of users and designers. Also magically handles navigation and permissions.
-* [:octocat: django-guardian](https://github.com/lukaszb/django-guardian) - Implementation of per object permissions for Django 1.2+ :star: 954 :fork_and_knife: 272
-* [:octocat: django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. :star: 226 :fork_and_knife: 17
+* [:octocat: django-guardian](https://github.com/lukaszb/django-guardian) - Implementation of per object permissions for Django 1.2+ :star: 955 :fork_and_knife: 272
+* [:octocat: django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. :star: 226 :fork_and_knife: 18
 
 ## CMS
 
@@ -488,7 +488,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:octocat: Cartridge](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine. :star: 418 :fork_and_knife: 197
 * [:earth_americas: shoop](https://www.shoop.io/) - An open source E-Commerce platform based on Django.
 * [:octocat: alipay](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python. :star: 80 :fork_and_knife: 34
-* [:octocat: merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors. :star: 796 :fork_and_knife: 141
+* [:octocat: merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors. :star: 795 :fork_and_knife: 141
 * [:octocat: money](https://github.com/carlospalol/money) - Money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution. :star: 42 :fork_and_knife: 6
 * [:octocat: python-currencies](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies. :star: 16 :fork_and_knife: 0
 
@@ -504,7 +504,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Generating RESTful APIs for database models defined with SQLAlchemy.
 * [:octocat: flask-api-utils](https://github.com/marselester/flask-api-utils) - Flask extension that takes care of API representation and authentication. :star: 20 :fork_and_knife: 2
 * [:earth_americas: falcon](http://falconframework.org/) - A high-performance Python framework for building cloud APIs and web app backends.
-* [:octocat: eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions. :star: 2629 :fork_and_knife: 358
+* [:octocat: eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions. :star: 2633 :fork_and_knife: 358
 * [:octocat: sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems. :star: 2101 :fork_and_knife: 163
 * [:earth_americas: restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [:octocat: savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (Django, and others) :star: 5 :fork_and_knife: 7
@@ -517,9 +517,9 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * OAuth
     * [:earth_americas: Authomatic](http://peterhudec.github.io/authomatic/) - Simple but powerful framework agnostic authentication/authorization client.
-    * [:octocat: django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works." :star: 1987 :fork_and_knife: 713
-    * [:octocat: django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts. :star: 561 :fork_and_knife: 177
-    * [:octocat: django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Providing OAuth2 access to Django app. :star: 274 :fork_and_knife: 203
+    * [:octocat: django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works." :star: 1990 :fork_and_knife: 712
+    * [:octocat: django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts. :star: 563 :fork_and_knife: 177
+    * [:octocat: django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Providing OAuth2 access to Django app. :star: 274 :fork_and_knife: 204
     * [:octocat: Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask. :star: 556 :fork_and_knife: 161
     * [:octocat: OAuthLib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic. :star: 974 :fork_and_knife: 219
     * [:octocat: python-oauth2](https://github.com/simplegeo/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers. :star: 2295 :fork_and_knife: 913
@@ -528,7 +528,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: sanction](https://github.com/demianbrecht/sanction) - A dead simple OAuth2 client implementation. :star: 138 :fork_and_knife: 33
 * Others
     * [:octocat: jose](https://github.com/demonware/jose) - JavaScript Object Signing and Encryption draft implementation. :star: 29 :fork_and_knife: 11
-    * [:octocat: PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01. :star: 539 :fork_and_knife: 94
+    * [:octocat: PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01. :star: 540 :fork_and_knife: 94
     * [:octocat: python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02. :star: 30 :fork_and_knife: 12
     * [:octocat: python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens. :star: 76 :fork_and_knife: 7
 
@@ -536,7 +536,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries and tools for templating and lexing.*
 
-* [:octocat: Jinja2](https://github.com/mitsuhiko/jinja2) - A modern and designer friendly templating language. :star: 2740 :fork_and_knife: 564
+* [:octocat: Jinja2](https://github.com/mitsuhiko/jinja2) - A modern and designer friendly templating language. :star: 2744 :fork_and_knife: 564
 * [:earth_americas: Chameleon](https://chameleon.readthedocs.org/) - An HTML/XML template engine. Modeled after ZPT, optimized for speed.
 * [:earth_americas: Genshi](http://genshi.edgewall.org/) - Python templating toolkit for generation of web-aware output.
 * [:earth_americas: Mako](http://www.makotemplates.org/) - Hyperfast and lightweight templating for the Python platform.
@@ -547,7 +547,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for working with event and task queues.*
 
 * [:earth_americas: celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
-* [:octocat: huey](https://github.com/coleifer/huey) - Little multi-threaded task queue. :star: 744 :fork_and_knife: 71
+* [:octocat: huey](https://github.com/coleifer/huey) - Little multi-threaded task queue. :star: 745 :fork_and_knife: 71
 * [:octocat: mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent. :star: 308 :fork_and_knife: 16
 * [:earth_americas: rq](http://python-rq.org/) - Simple job queues for Python.
 * [:octocat: simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, Amazon SQS based queue. :star: 88 :fork_and_knife: 5
@@ -556,7 +556,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries and software for indexing and performing search queries on data.*
 
-* [:octocat: django-haystack](https://github.com/toastdriven/django-haystack) - Modular search for Django. :star: 1802 :fork_and_knife: 765
+* [:octocat: django-haystack](https://github.com/toastdriven/django-haystack) - Modular search for Django. :star: 1803 :fork_and_knife: 766
 * [:earth_americas: elasticsearch-py](http://www.elasticsearch.org/guide/en/elasticsearch/client/python-api/current/) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 * [:octocat: elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - The official high-level Python client for Elasticsearch. :star: 535 :fork_and_knife: 123
 * [:earth_americas: solrpy](https://code.google.com/p/solrpy/) - A Python client for [solr](http://lucene.apache.org/solr/).
@@ -587,8 +587,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for caching data.*
 
 * [:earth_americas: Beaker](http://beaker.readthedocs.org/) - A library for caching and sessions for use with web applications and stand-alone Python scripts and applications.
-* [:octocat: django-cache-machine](https://github.com/jbalogh/django-cache-machine) - Automatic caching and invalidation for Django models. :star: 576 :fork_and_knife: 118
-* [:octocat: django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation. :star: 464 :fork_and_knife: 72
+* [:octocat: django-cache-machine](https://github.com/jbalogh/django-cache-machine) - Automatic caching and invalidation for Django models. :star: 577 :fork_and_knife: 117
+* [:octocat: django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation. :star: 466 :fork_and_knife: 72
 * [:octocat: django-viewlet](https://github.com/5monkeys/django-viewlet) - Render template parts with extended cache control. :star: 53 :fork_and_knife: 9
 * [:earth_americas: dogpile.cache](http://dogpilecache.readthedocs.org/) - dogpile.cache is next generation replacement for Beaker made by same authors.
 * [:earth_americas: HermesCache](https://pypi.python.org/pypi/HermesCache) - Python caching library with tag-based invalidation and dogpile effect prevention.
@@ -603,14 +603,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: envelopes](http://tomekwojcik.github.io/envelopes/) - Mailing for human beings.
 * [:octocat: flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library. :star: 824 :fork_and_knife: 75
 * [:octocat: imbox](https://github.com/martinrusev/imbox) - Python IMAP for Humans. :star: 582 :fork_and_knife: 72
-* [:octocat: inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans. :star: 1138 :fork_and_knife: 73
-* [:octocat: inbox](https://github.com/inboxapp/inbox) - The open source email toolkit. :star: 2450 :fork_and_knife: 203
-* [:octocat: lamson](https://github.com/zedshaw/lamson) - Pythonic SMTP Application Server. :star: 502 :fork_and_knife: 123
+* [:octocat: inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans. :star: 1137 :fork_and_knife: 73
+* [:octocat: inbox](https://github.com/inboxapp/inbox) - The open source email toolkit. :star: 2470 :fork_and_knife: 203
+* [:octocat: lamson](https://github.com/zedshaw/lamson) - Pythonic SMTP Application Server. :star: 503 :fork_and_knife: 123
 * [:octocat: mailjet](https://github.com/WoLpH/mailjet) - Mailjet API implementation for batch mailing, statistics and more. :star: 14 :fork_and_knife: 11
 * [:octocat: marrow.mailer](https://github.com/marrow/marrow.mailer) - High-performance extensible mail delivery framework. :star: 87 :fork_and_knife: 22
 * [:octocat: modoboa](https://github.com/tonioo/modoboa) - A mail hosting and management platform including a modern and simplified Web UI. :star: 414 :fork_and_knife: 68
 * [:earth_americas: pyzmail](http://www.magiksys.net/pyzmail/) - Compose, send and parse emails.
-* [:octocat: Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures. :star: 483 :fork_and_knife: 65
+* [:octocat: Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures. :star: 484 :fork_and_knife: 65
 
 ## Internationalization
 
@@ -639,24 +639,24 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:octocat: html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments. :star: 380 :fork_and_knife: 90
 * [:earth_americas: lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [:octocat: MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python. :star: 95 :fork_and_knife: 40
-* [:octocat: pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML. :star: 789 :fork_and_knife: 72
-* [:octocat: untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access. :star: 115 :fork_and_knife: 12
-* [:octocat: xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter. :star: 1021 :fork_and_knife: 366
-* [:octocat: xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON. :star: 1766 :fork_and_knife: 161
+* [:octocat: pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML. :star: 790 :fork_and_knife: 73
+* [:octocat: untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access. :star: 116 :fork_and_knife: 12
+* [:octocat: xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter. :star: 1022 :fork_and_knife: 366
+* [:octocat: xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON. :star: 1767 :fork_and_knife: 161
 
 ## Web Crawling
 
 *Libraries for scraping websites.*
 
 * [:earth_americas: Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
-* [:octocat: cola](https://github.com/chineking/cola) - A distributed crawling framework. :star: 686 :fork_and_knife: 385
+* [:octocat: cola](https://github.com/chineking/cola) - A distributed crawling framework. :star: 685 :fork_and_knife: 385
 * [:octocat: Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework. :star: 22 :fork_and_knife: 2
 * [:earth_americas: feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
 * [:earth_americas: Grab](http://grablib.org/) - Site scraping framework.
-* [:octocat: MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites. :star: 1229 :fork_and_knife: 40
-* [:octocat: portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy. :star: 3445 :fork_and_knife: 477
-* [:octocat: pyspider](https://github.com/binux/pyspider) - A powerful spider system. :star: 5255 :fork_and_knife: 1237
-* [:octocat: RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser. :star: 1085 :fork_and_knife: 79
+* [:octocat: MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites. :star: 1230 :fork_and_knife: 40
+* [:octocat: portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy. :star: 3450 :fork_and_knife: 478
+* [:octocat: pyspider](https://github.com/binux/pyspider) - A powerful spider system. :star: 5258 :fork_and_knife: 1240
+* [:octocat: RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser. :star: 1084 :fork_and_knife: 79
 
 ## Web Content Extracting
 
@@ -664,14 +664,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:octocat: Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler. :star: 36 :fork_and_knife: 7
 * [:octocat: html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text. :star: 139 :fork_and_knife: 34
-* [:octocat: lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans. :star: 289 :fork_and_knife: 16
+* [:octocat: lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans. :star: 291 :fork_and_knife: 16
 * [:octocat: micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs. :star: 267 :fork_and_knife: 41
-* [:octocat: newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python. :star: 2549 :fork_and_knife: 317
+* [:octocat: newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python. :star: 2552 :fork_and_knife: 318
 * [:octocat: opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol :star: 57 :fork_and_knife: 35
-* [:octocat: python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor. :star: 1581 :fork_and_knife: 357
-* [:octocat: python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool. :star: 754 :fork_and_knife: 158
+* [:octocat: python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor. :star: 1582 :fork_and_knife: 357
+* [:octocat: python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool. :star: 755 :fork_and_knife: 158
 * [:octocat: sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data. :star: 11 :fork_and_knife: 0
-* [:octocat: sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages. :star: 240 :fork_and_knife: 48
+* [:octocat: sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages. :star: 241 :fork_and_knife: 48
 * [:octocat: textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc. :star: 1612 :fork_and_knife: 125
 
 ## Forms
@@ -679,7 +679,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for working with forms.*
 
 * [:earth_americas: Deform](http://deform.readthedocs.org/) - Python HTML form generation library influenced by the formish form generation library.
-* [:octocat: django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django. :star: 1127 :fork_and_knife: 349
+* [:octocat: django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django. :star: 1128 :fork_and_knife: 349
 * [:earth_americas: django-crispy-forms](http://django-crispy-forms.readthedocs.org/) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 * [:octocat: django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - A platform independent Django form serializer. :star: 137 :fork_and_knife: 61
 * [:earth_americas: WTForms-JSON](http://wtforms-json.readthedocs.org/) - A WTForms extension for JSON data handling.
@@ -692,10 +692,10 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: Cerberus](http://python-cerberus.org) - A mappings-validator with a variety of rules, normalization-features and simple customization that uses a pythonic schema-definition.
 * [:earth_americas: colander](http://docs.pylonsproject.org/projects/colander/) - A system for validating and deserializing data obtained via XML, JSON, an HTML form post or any other equally simple data serialization.
 * [:octocat: kmatch](https://github.com/ambitioninc/kmatch) - A language for matching/validating/filtering Python dictionaries. :star: 36 :fork_and_knife: 4
-* [:octocat: schema](https://github.com/halst/schema) - A library for validating Python data structures. :star: 642 :fork_and_knife: 61
+* [:octocat: schema](https://github.com/halst/schema) - A library for validating Python data structures. :star: 643 :fork_and_knife: 61
 * [:octocat: Schematics](https://github.com/schematics/schematics) - Data Structure Validation. :star: 1440 :fork_and_knife: 186
 * [:octocat: valideer](https://github.com/podio/valideer) - Lightweight extensible data validation and adaptation library. :star: 144 :fork_and_knife: 7
-* [:octocat: voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library. It is primarily intended for validating data coming into Python as JSON, YAML, etc. :star: 463 :fork_and_knife: 73
+* [:octocat: voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library. It is primarily intended for validating data coming into Python as JSON, YAML, etc. :star: 465 :fork_and_knife: 73
 
 ## Anti-spam
 
@@ -708,7 +708,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for tagging items.*
 
-* [:octocat: django-taggit](https://github.com/alex/django-taggit) - Simple tagging for Django. :star: 1334 :fork_and_knife: 375
+* [:octocat: django-taggit](https://github.com/alex/django-taggit) - Simple tagging for Django. :star: 1336 :fork_and_knife: 375
 
 ## Admin Panels
 
@@ -716,11 +716,11 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:octocat: Ajenti](https://github.com/Eugeny/ajenti) - The admin panel your servers deserve. :star: 60 :fork_and_knife: 13
 * [:earth_americas: django-suit](http://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
-* [:octocat: django-xadmin](https://github.com/sshwsfc/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies. :star: 1419 :fork_and_knife: 431
+* [:octocat: django-xadmin](https://github.com/sshwsfc/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies. :star: 1420 :fork_and_knife: 431
 * [:octocat: flask-admin](https://github.com/mrjoes/flask-admin) - Simple and extensible administrative interface framework for Flask. :star: 21 :fork_and_knife: 6
 * [:octocat: flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery. :star: 1405 :fork_and_knife: 259
 * [:earth_americas: Grappelli](http://grappelliproject.com) – A jazzy skin for the Django Admin-Interface.
-* [:octocat: Wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts. :star: 480 :fork_and_knife: 26
+* [:octocat: Wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts. :star: 481 :fork_and_knife: 26
 
 ## Static Site Generator
 
@@ -736,7 +736,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for starting and communicating with OS processes.*
 
-* [:octocat: envoy](https://github.com/kennethreitz/envoy) - Python [subprocess](https://docs.python.org/2/library/subprocess.html) for Humans™. :star: 1569 :fork_and_knife: 101
+* [:octocat: envoy](https://github.com/kennethreitz/envoy) - Python [subprocess](https://docs.python.org/2/library/subprocess.html) for Humans™. :star: 1570 :fork_and_knife: 101
 * [:earth_americas: sarge](http://sarge.readthedocs.org/) - Yet another wrapper for subprocess.
 * [:octocat: sh](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python. :star: 3067 :fork_and_knife: 251
 
@@ -747,7 +747,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: multiprocessing](https://docs.python.org/2/library/multiprocessing.html) - (Python standard library) Process-based "threading" interface.
 * [:earth_americas: threading](https://docs.python.org/2/library/threading.html) - (Python standard library) Higher-level threading interface.
 * [:earth_americas: eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
-* [:octocat: gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet). :star: 536 :fork_and_knife: 99
+* [:octocat: gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet). :star: 538 :fork_and_knife: 99
 * [:octocat: Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code. :star: 910 :fork_and_knife: 43
 
 ## Networking
@@ -766,10 +766,10 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for working with WebSocket.*
 
-* [:octocat: AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html). :star: 886 :fork_and_knife: 282
-* [:octocat: Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn). :star: 707 :fork_and_knife: 84
-* [:octocat: django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django. :star: 792 :fork_and_knife: 151
-* [:octocat: WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy. :star: 603 :fork_and_knife: 139
+* [:octocat: AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html). :star: 890 :fork_and_knife: 282
+* [:octocat: Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn). :star: 710 :fork_and_knife: 84
+* [:octocat: django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django. :star: 793 :fork_and_knife: 151
+* [:octocat: WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy. :star: 602 :fork_and_knife: 140
 
 ## WSGI Servers
 
@@ -808,7 +808,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for working with graphical user interface applications.*
 
 * [:earth_americas: curses](https://docs.python.org/2/library/curses.html#module-curses) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
-* [:octocat: enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declaratic Syntax like QML. :star: 406 :fork_and_knife: 52
+* [:octocat: enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declaratic Syntax like QML. :star: 407 :fork_and_knife: 52
 * [:earth_americas: kivy](http://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
 * [:earth_americas: pyglet](http://www.pyglet.org/) - A cross-platform windowing and multimedia library for Python.
 * [:earth_americas: PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro) - Python bindings for the [Qt](http://qt-project.org/) cross-platform application and UI framework, with support for both Qt v4 and Qt v5 frameworks.
@@ -851,15 +851,15 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: contexts](https://github.com/benjamin-hodgson/Contexts) - A BDD framework for Python 3.3+. Inspired by C#'s `Machine.Specifications`. :star: 31 :fork_and_knife: 4
     * [:octocat: hypothesis](https://github.com/DRMacIver/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library. :star: 853 :fork_and_knife: 77
     * [:earth_americas: mamba](https://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
-    * [:octocat: PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings. :star: 269 :fork_and_knife: 36
+    * [:octocat: PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings. :star: 270 :fork_and_knife: 36
     * [:octocat: pyshould](https://github.com/drslump/pyshould) - Should style asserts based on [PyHamcrest](https://github.com/hamcrest/PyHamcrest). :star: 26 :fork_and_knife: 7
     * [:earth_americas: pytest](http://pytest.org/) - A mature full-featured Python testing tool.
     * [:earth_americas: pyvows](http://heynemann.github.io/pyvows/) - BDD style testing for Python. Inspired by [Vows.js](http://vowsjs.org/).
     * [:octocat: Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework. :star: 588 :fork_and_knife: 218
 * Web Testing
     * [:earth_americas: Selenium](https://pypi.python.org/pypi/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-    * [:octocat: locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. :star: 2790 :fork_and_knife: 347
-    * [:octocat: sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework. :star: 922 :fork_and_knife: 85
+    * [:octocat: locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. :star: 2793 :fork_and_knife: 347
+    * [:octocat: sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework. :star: 923 :fork_and_knife: 85
     * [:earth_americas: splinter](https://splinter.readthedocs.org/en/latest/) - Open source tool for testing web applications.
 * Mock
     * [:earth_americas: mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
@@ -867,10 +867,10 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module. :star: 563 :fork_and_knife: 54
     * [:octocat: httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+. :star: 217 :fork_and_knife: 21
     * [:earth_americas: httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
-    * [:octocat: responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library. :star: 1062 :fork_and_knife: 80
-    * [:octocat: VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests. :star: 520 :fork_and_knife: 79
+    * [:octocat: responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library. :star: 1063 :fork_and_knife: 80
+    * [:octocat: VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests. :star: 523 :fork_and_knife: 79
 * Object Factories
-    * [:octocat: factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python. :star: 764 :fork_and_knife: 111
+    * [:octocat: factory_boy](https://github.com/rbarrois/factory_boy) - A test fixtures replacement for Python. :star: 765 :fork_and_knife: 111
     * [:octocat: mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc. :star: 258 :fork_and_knife: 27
     * [:octocat: model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django. :star: 526 :fork_and_knife: 116
 * Code Coverage
@@ -889,8 +889,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * Code Analysis
     * [:octocat: code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts. :star: 183 :fork_and_knife: 22
-    * [:octocat: pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application. :star: 520 :fork_and_knife: 88
-    * [:octocat: pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python. :star: 1736 :fork_and_knife: 445
+    * [:octocat: pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application. :star: 522 :fork_and_knife: 88
+    * [:octocat: pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python. :star: 1736 :fork_and_knife: 446
 * Linter
     * [:earth_americas: Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
     * [:earth_americas: Pylint](http://www.pylint.org/) - A source code analyzer.
@@ -906,13 +906,13 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes. :star: 1325 :fork_and_knife: 44
     * [:octocat: wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets. :star: 773 :fork_and_knife: 39
     * [:earth_americas: winpdb](http://winpdb.org/) - A Platform Independent Python Debugger with GUI, capable of remote debugging based on rpdb2.
-    * [:octocat: django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response. :star: 3297 :fork_and_knife: 631
+    * [:octocat: django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response. :star: 3298 :fork_and_knife: 631
     * [:octocat: django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver. :star: 1083 :fork_and_knife: 114
-    * [:octocat: flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask. :star: 391 :fork_and_knife: 68
+    * [:octocat: flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask. :star: 393 :fork_and_knife: 68
 * Profiler
-    * [:octocat: line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling. :star: 519 :fork_and_knife: 35
-    * [:octocat: memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code. :star: 620 :fork_and_knife: 74
-    * [:octocat: profiling](https://github.com/what-studio/profiling) - An interactive Python profiler. :star: 2263 :fork_and_knife: 70
+    * [:octocat: line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling. :star: 519 :fork_and_knife: 36
+    * [:octocat: memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code. :star: 620 :fork_and_knife: 75
+    * [:octocat: profiling](https://github.com/what-studio/profiling) - An interactive Python profiler. :star: 2264 :fork_and_knife: 69
 * Others
     * [:octocat: pyelftools](https://github.com/eliben/pyelftools) - A pure-Python library for parsing and analyzing ELF files and DWARF debugging information. :star: 215 :fork_and_knife: 80
     * [:octocat: python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the [statsd](https://github.com/etsy/statsd/) server. :star: 75 :fork_and_knife: 32
@@ -922,8 +922,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for scientific computing and data analyzing.*
 
 * [:earth_americas: astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-* [:octocat: bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis. :star: 240 :fork_and_knife: 121
-* [:octocat: bccb](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis. :star: 275 :fork_and_knife: 133
+* [:octocat: bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis. :star: 240 :fork_and_knife: 122
+* [:octocat: bccb](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis. :star: 276 :fork_and_knife: 133
 * [:earth_americas: Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 * [:earth_americas: blaze](http://blaze.pydata.org/en/latest/) - NumPy and Pandas interface to Big Data.
 * [:earth_americas: cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
@@ -935,26 +935,26 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: orange](http://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or Python scripting.
 * [:earth_americas: Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 * [:earth_americas: PyDy](https://pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion based around NumPy, SciPy, IPython, and matplotlib.
-* [:octocat: PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit. :star: 1239 :fork_and_knife: 263
+* [:octocat: PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit. :star: 1240 :fork_and_knife: 263
 * [:earth_americas: RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 * [:earth_americas: SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
-* [:octocat: statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python. :star: 1144 :fork_and_knife: 505
-* [:octocat: SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics. :star: 2388 :fork_and_knife: 1165
-* [:octocat: zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library. :star: 2588 :fork_and_knife: 706
+* [:octocat: statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python. :star: 1145 :fork_and_knife: 505
+* [:octocat: SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics. :star: 2391 :fork_and_knife: 1168
+* [:octocat: zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library. :star: 2589 :fork_and_knife: 706
 
 ## Data Visualization
 
 *Libraries for visualizing data. See: [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
 * [:earth_americas: matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
-* [:octocat: bokeh](https://github.com/ContinuumIO/bokeh) - Interactive Web Plotting for Python. :star: 3303 :fork_and_knife: 602
-* [:octocat: ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R. :star: 2285 :fork_and_knife: 284
+* [:octocat: bokeh](https://github.com/ContinuumIO/bokeh) - Interactive Web Plotting for Python. :star: 3305 :fork_and_knife: 603
+* [:octocat: ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R. :star: 2286 :fork_and_knife: 284
 * [:earth_americas: plotly](https://plot.ly/python) - Collaborative web plotting for Python and matplotlib.
 * [:earth_americas: pygal](http://pygal.org/) - A Python SVG Charts Creator.
 * [:earth_americas: pygraphviz](https://pypi.python.org/pypi/pygraphviz) - Python interface to [Graphviz](http://www.graphviz.org/).
 * [:earth_americas: PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 * [:earth_americas: SnakeViz](https://jiffyclub.github.io/snakeviz) - A browser based graphical viewer for the output of Python's cProfile module.
-* [:octocat: vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator. :star: 1505 :fork_and_knife: 169
+* [:octocat: vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator. :star: 1504 :fork_and_knife: 169
 * [:earth_americas: VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
 
 ## Computer Vision
@@ -968,14 +968,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for Machine Learning. See: [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
-* [:octocat: Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine. :star: 564 :fork_and_knife: 213
-* [:octocat: gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans. :star: 1812 :fork_and_knife: 650
+* [:octocat: Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine. :star: 567 :fork_and_knife: 213
+* [:octocat: gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans. :star: 1813 :fork_and_knife: 654
 * [:octocat: hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python. :star: 1102 :fork_and_knife: 95
-* [:octocat: NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing. :star: 3486 :fork_and_knife: 936
-* [:octocat: pattern](https://github.com/clips/pattern) - Web mining module for Python. :star: 3626 :fork_and_knife: 562
-* [:octocat: PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library. :star: 1434 :fork_and_knife: 448
-* [:octocat: Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano). :star: 1781 :fork_and_knife: 713
-* [:octocat: python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System. :star: 451 :fork_and_knife: 193
+* [:octocat: NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing. :star: 3490 :fork_and_knife: 938
+* [:octocat: pattern](https://github.com/clips/pattern) - Web mining module for Python. :star: 3628 :fork_and_knife: 562
+* [:octocat: PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library. :star: 1438 :fork_and_knife: 449
+* [:octocat: Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano). :star: 1786 :fork_and_knife: 715
+* [:octocat: python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System. :star: 452 :fork_and_knife: 194
 * [:earth_americas: scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [:octocat: vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/). :star: 107 :fork_and_knife: 27
 
@@ -983,55 +983,55 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Framworks and libraries for MapReduce.*
 
-* [:octocat: dpark](https://github.com/douban/dpark) - Python clone of Spark, a MapReduce alike framework in Python. :star: 1463 :fork_and_knife: 348
+* [:octocat: dpark](https://github.com/douban/dpark) - Python clone of Spark, a MapReduce alike framework in Python. :star: 1462 :fork_and_knife: 348
 * [:octocat: dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs. :star: 953 :fork_and_knife: 154
-* [:octocat: luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs. :star: 3323 :fork_and_knife: 595
-* [:octocat: mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services. :star: 1542 :fork_and_knife: 396
+* [:octocat: luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs. :star: 3328 :fork_and_knife: 596
+* [:octocat: mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services. :star: 1544 :fork_and_knife: 396
 * [:earth_americas: PySpark](http://spark.apache.org/docs/latest/programming-guide.html) - The Spark Python API.
-* [:octocat: streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data. Integrates with [Apache Storm](https://storm.incubator.apache.org/). :star: 850 :fork_and_knife: 107
+* [:octocat: streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data. Integrates with [Apache Storm](https://storm.incubator.apache.org/). :star: 855 :fork_and_knife: 107
 
 ## Functional Programming
 
 *Functional Programming with Python.*
 
 * [:octocat: CyToolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of Toolz: High performance functional utilities. :star: 215 :fork_and_knife: 16
-* [:octocat: fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP. :star: 1705 :fork_and_knife: 95
+* [:octocat: fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP. :star: 1706 :fork_and_knife: 95
 * [:octocat: funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools. :star: 1202 :fork_and_knife: 61
-* [:octocat: Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. :star: 892 :fork_and_knife: 70
+* [:octocat: Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. :star: 892 :fork_and_knife: 71
 
 ## Third-party APIs
 
 *Libraries for accessing third party services APIs. See: [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [:earth_americas: apache-libcloud](https://libcloud.apache.org/) - One Python library for all clouds.
-* [:octocat: boto](https://github.com/boto/boto) - Python interface to Amazon Web Services. :star: 5168 :fork_and_knife: 1864
+* [:octocat: boto](https://github.com/boto/boto) - Python interface to Amazon Web Services. :star: 5169 :fork_and_knife: 1865
 * [:octocat: django-wordpress](https://github.com/sunlightlabs/django-wordpress/) - WordPress models and views for Django. :star: 193 :fork_and_knife: 41
-* [:octocat: facebook-sdk](https://github.com/pythonforfacebook/facebook-sdk) - Facebook Platform Python SDK. :star: 1478 :fork_and_knife: 542
+* [:octocat: facebook-sdk](https://github.com/pythonforfacebook/facebook-sdk) - Facebook Platform Python SDK. :star: 1479 :fork_and_knife: 543
 * [:octocat: facepy](https://github.com/jgorset/facepy) - Facepy makes it really easy to interact with Facebook's Graph API :star: 392 :fork_and_knife: 120
-* [:octocat: gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Gmail. :star: 1142 :fork_and_knife: 181
-* [:octocat: google-api-python-client](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python. :star: 629 :fork_and_knife: 234
-* [:octocat: gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API. :star: 1315 :fork_and_knife: 257
+* [:octocat: gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Gmail. :star: 1143 :fork_and_knife: 181
+* [:octocat: google-api-python-client](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python. :star: 630 :fork_and_knife: 235
+* [:octocat: gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API. :star: 1317 :fork_and_knife: 257
 * [:octocat: twython](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API. :star: 1059 :fork_and_knife: 275
 
 ## DevOps Tools
 
 *Software and libraries for DevOps.*
 
-* [:octocat: Ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform. :star: 13037 :fork_and_knife: 3894
-* [:octocat: SaltStack](https://github.com/saltstack/salt) - Infrastructure automation and management system. :star: 5728 :fork_and_knife: 2447
+* [:octocat: Ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform. :star: 13054 :fork_and_knife: 3899
+* [:octocat: SaltStack](https://github.com/saltstack/salt) - Infrastructure automation and management system. :star: 5733 :fork_and_knife: 2449
 * [:earth_americas: Fabric](http://www.fabfile.org/) - A simple, Pythonic tool for remote execution and deployment.
 * [:octocat: cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric. :star: 1125 :fork_and_knife: 137
 * [:earth_americas: Docker Compose](https://docs.docker.com/compose/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [:octocat: Fabtools](https://github.com/ronnix/fabtools) - Tools for writing awesome Fabric files. :star: 885 :fork_and_knife: 181
 * [:earth_americas: gitapi](http://bitbucket.org/haard/gitapi) - Pure-Python API for git.
-* [:octocat: gunnery](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface. :star: 559 :fork_and_knife: 49
+* [:octocat: gunnery](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface. :star: 559 :fork_and_knife: 50
 * [:earth_americas: hgapi](http://bitbucket.org/haard/hgapi) - Pure-Python API for Mercurial.
 * [:octocat: honcho](https://github.com/nickstenning/honcho) - A Python port of [Foreman](https://github.com/ddollar/foreman), a tool for managing Procfile-based applications. :star: 658 :fork_and_knife: 75
 * [:earth_americas: OpenStack](http://www.openstack.org/) - Open source software for building private and public clouds.
-* [:octocat: pexpect](https://github.com/pexpect/pexpect) - Controlling interactive programs in a pseudo-terminal like GNU expect. :star: 422 :fork_and_knife: 119
+* [:octocat: pexpect](https://github.com/pexpect/pexpect) - Controlling interactive programs in a pseudo-terminal like GNU expect. :star: 424 :fork_and_knife: 119
 * [:octocat: provy](https://github.com/python-provy/provy) - An easy-to-use provisioning system in Python. :star: 103 :fork_and_knife: 19
-* [:octocat: psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module. :star: 1047 :fork_and_knife: 166
-* [:octocat: supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX. :star: 1991 :fork_and_knife: 420
+* [:octocat: psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module. :star: 1051 :fork_and_knife: 168
+* [:octocat: supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX. :star: 1993 :fork_and_knife: 421
 
 ## Job Scheduler
 
@@ -1042,7 +1042,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: doit](http://pydoit.org/) - A task runner/build tool.
 * [:earth_americas: Joblib](http://pythonhosted.org/joblib/index.html) - A set of tools to provide lightweight pipelining in Python.
 * [:octocat: Plan](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm. :star: 835 :fork_and_knife: 59
-* [:octocat: schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. :star: 1644 :fork_and_knife: 137
+* [:octocat: schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. :star: 1686 :fork_and_knife: 137
 * [:octocat: Spiff](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python. :star: 261 :fork_and_knife: 67
 * [:earth_americas: TaskFlow](http://docs.openstack.org/developer/taskflow/) - A Python library that helps to make task execution easy, consistent and reliable.
 
@@ -1061,7 +1061,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: Cython](http://cython.org/) - Optimizing Static Compiler for Python. Uses type mixins to compile Python into C or C++ modules resulting in large performance gains.
 * [:earth_americas: PyPy](http://pypy.org/) - An implementation of Python in Python. The interpreter uses black magic to make Python very fast without having to add in additional type information.
-* [:octocat: Pyston](https://github.com/dropbox/pyston) - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance. :star: 3168 :fork_and_knife: 222
+* [:octocat: Pyston](https://github.com/dropbox/pyston) - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance. :star: 3173 :fork_and_knife: 222
 * [:earth_americas: Stackless Python](http://www.stackless.com/) - An enhanced version of the Python.
 
 ## Microsoft Windows
@@ -1089,7 +1089,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: ino](http://inotool.org/) - Command line toolkit for working with [Arduino](http://www.arduino.cc/).
 * [:earth_americas: Pyro](http://pyrorobotics.com/) - Python Robotics.
-* [:octocat: PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard. :star: 324 :fork_and_knife: 69
+* [:octocat: PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard. :star: 324 :fork_and_knife: 70
 * [:earth_americas: scapy](http://www.secdev.org/projects/scapy/) - A brilliant packet manipulation library.
 * [:earth_americas: wifi](https://wifi.readthedocs.org/) - A Python library and command line tool for working with WiFi on Linux.
 
@@ -1114,8 +1114,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Python implementation of algorithms and design patterns.*
 
-* [:octocat: algorithms](https://github.com/nryoung/algorithms) - A module of algorithms for Python. :star: 1171 :fork_and_knife: 292
-* [:octocat: python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python. :star: 6966 :fork_and_knife: 1632
+* [:octocat: algorithms](https://github.com/nryoung/algorithms) - A module of algorithms for Python. :star: 1172 :fork_and_knife: 293
+* [:octocat: python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python. :star: 6976 :fork_and_knife: 1634
 
 ## Editor Plugins
 
@@ -1125,13 +1125,13 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [:octocat: Elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment. :star: 545 :fork_and_knife: 82
 * Sublime Text
     * [:octocat: SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi. :star: 542 :fork_and_knife: 62
-    * [:octocat: Anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE. :star: 848 :fork_and_knife: 80
+    * [:octocat: Anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE. :star: 851 :fork_and_knife: 81
 * Vim
-    * [:octocat: YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python. :star: 8719 :fork_and_knife: 999
-    * [:octocat: Jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python. :star: 1973 :fork_and_knife: 165
-    * [:octocat: Python-mode](https://github.com/klen/python-mode) - An all in one plugin for turning Vim into a Python IDE. :star: 2659 :fork_and_knife: 553
+    * [:octocat: YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python. :star: 8722 :fork_and_knife: 1002
+    * [:octocat: Jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python. :star: 1974 :fork_and_knife: 164
+    * [:octocat: Python-mode](https://github.com/klen/python-mode) - An all in one plugin for turning Vim into a Python IDE. :star: 2659 :fork_and_knife: 555
 * Visual Studio
-    * [:octocat: PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio. :star: 595 :fork_and_knife: 140
+    * [:octocat: PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio. :star: 598 :fork_and_knife: 141
 
 ## IDEs
 
@@ -1140,7 +1140,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [:earth_americas: PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
 * [:earth_americas: Komodo](http://komodoide.com/) - Commercial polyglot IDE with support for Python.
 * [:earth_americas: LiClipse](http://www.liclipse.com/) - Free polyglot IDE based on Eclipse. Uses PyDev for Python support.
-* [:octocat: Spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE. :star: 556 :fork_and_knife: 157
+* [:octocat: Spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE. :star: 560 :fork_and_knife: 159
 * [:earth_americas: WingIDE](http://wingide.com/) - Commercial IDE for Python.
 
 # Services
@@ -1198,12 +1198,12 @@ List of lists.
 
 * Python
     * [:octocat: pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
-    * [:octocat: python-github-projects](https://github.com/checkcheckzz/python-github-projects) :star: 143 :fork_and_knife: 19
-    * [:octocat: python_reference](https://github.com/rasbt/python_reference) :star: 1359 :fork_and_knife: 215
+    * [:octocat: python-github-projects](https://github.com/checkcheckzz/python-github-projects) :star: 144 :fork_and_knife: 19
+    * [:octocat: python_reference](https://github.com/rasbt/python_reference) :star: 1360 :fork_and_knife: 215
     * [:octocat: pythonidae](https://github.com/svaksha/pythonidae) :star: 263 :fork_and_knife: 50
 * Monty
-    * [:octocat: awesome](https://github.com/sindresorhus/awesome) :star: 20165 :fork_and_knife: 2079
-    * [:octocat: lists](https://github.com/jnv/lists) :star: 3431 :fork_and_knife: 207
+    * [:octocat: awesome](https://github.com/sindresorhus/awesome) :star: 20284 :fork_and_knife: 2092
+    * [:octocat: lists](https://github.com/jnv/lists) :star: 3433 :fork_and_knife: 207
 
 # [Contributing](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)
 
