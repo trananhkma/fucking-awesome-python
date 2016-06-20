@@ -115,7 +115,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:earth_americas: pip](https://pip.pypa.io/) - The Python package and dependency manager.
     * [:earth_americas: Python Package Index](https://pypi.python.org/pypi)
-* [:octocat: conda](https://github.com/conda/conda/) - :star: 766 :fork_and_knife: 263 - Cross-platform, Python-agnostic binary package manager.
+* [:octocat: conda](https://github.com/conda/conda/) - :star: 766 :fork_and_knife: 264 - Cross-platform, Python-agnostic binary package manager.
 * [:earth_americas: Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages.
 * [:earth_americas: wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
 
@@ -302,7 +302,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for downloading.*
 
-* [:octocat: coursera](https://github.com/coursera-dl/coursera) - :star: 4007 :fork_and_knife: 1164 - Script for downloading Coursera.org videos and naming them.
+* [:octocat: coursera](https://github.com/coursera-dl/coursera) - :star: 4011 :fork_and_knife: 1164 - Script for downloading Coursera.org videos and naming them.
 * [:octocat: s3cmd](https://github.com/s3tools/s3cmd) - :star: 1887 :fork_and_knife: 594 - A command line tool for managing Amazon S3 and CloudFront.
 * [:octocat: s4cmd](https://github.com/bloomreach/s4cmd) - :star: 419 :fork_and_knife: 84 - Super S3 command line tool, good for higher performance.
 * [:octocat: subliminal](https://github.com/Diaoul/subliminal) - :star: 1004 :fork_and_knife: 210 - Library and command line tool to search and download subtitles.
@@ -792,7 +792,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:octocat: SimpleJSONRPCServer](https://github.com/joshmarshall/jsonrpclib/) - :star: 266 :fork_and_knife: 109 - This library is an implementation of the JSON-RPC specification.
 * [:earth_americas: SimpleXMLRPCServer](https://docs.python.org/2/library/simplexmlrpcserver.html) - (Python standard library) Simple XML-RPC server implementation, single-threaded.
-* [:octocat: zeroRPC](https://github.com/dotcloud/zerorpc-python) - :star: 1713 :fork_and_knife: 204 - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
+* [:octocat: zeroRPC](https://github.com/dotcloud/zerorpc-python) - :star: 1714 :fork_and_knife: 204 - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
 
 ## Cryptography
 
@@ -985,7 +985,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [:octocat: dpark](https://github.com/douban/dpark) - :star: 1782 :fork_and_knife: 420 - Python clone of Spark, a MapReduce alike framework in Python.
 * [:octocat: dumbo](https://github.com/klbostee/dumbo) - :star: 970 :fork_and_knife: 158 - Python module that allows one to easily write and run Hadoop programs.
-* [:octocat: luigi](https://github.com/spotify/luigi) - :star: 4784 :fork_and_knife: 923 - A module that helps you build complex pipelines of batch jobs.
+* [:octocat: luigi](https://github.com/spotify/luigi) - :star: 4785 :fork_and_knife: 923 - A module that helps you build complex pipelines of batch jobs.
 * [:octocat: mrjob](https://github.com/Yelp/mrjob) - :star: 1831 :fork_and_knife: 459 - Run MapReduce jobs on Hadoop or Amazon Web Services.
 * [:earth_americas: PySpark](http://spark.apache.org/docs/latest/programming-guide.html) - The Spark Python API.
 * [:octocat: streamparse](https://github.com/Parsely/streamparse) - :star: 996 :fork_and_knife: 141 - Run Python code against real-time streams of data. Integrates with [Apache Storm](https://storm.incubator.apache.org/).
@@ -1017,7 +1017,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Software and libraries for DevOps.*
 
-* [:octocat: Ansible](https://github.com/ansible/ansible) - :star: 17377 :fork_and_knife: 5245 - A radically simple IT automation platform.
+* [:octocat: Ansible](https://github.com/ansible/ansible) - :star: 17377 :fork_and_knife: 5246 - A radically simple IT automation platform.
 * [:octocat: SaltStack](https://github.com/saltstack/salt) - :star: 6626 :fork_and_knife: 2961 - Infrastructure automation and management system.
 * [:earth_americas: Fabric](http://www.fabfile.org/) - A simple, Pythonic tool for remote execution and deployment.
 * [:octocat: cuisine](https://github.com/sebastien/cuisine) - :star: 1178 :fork_and_knife: 148 - Chef-like functionality for Fabric.
@@ -1038,7 +1038,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for scheduling jobs.*
 
 * [:earth_americas: APScheduler](http://apscheduler.readthedocs.org/) - A light but powerful in-process task scheduler that lets you schedule functions.
-* [:octocat: django-schedule](https://github.com/thauber/django-schedule) - :star: 634 :fork_and_knife: 260 - A calendaring app for Django.
+* [:octocat: django-schedule](https://github.com/thauber/django-schedule) - :star: 635 :fork_and_knife: 260 - A calendaring app for Django.
 * [:earth_americas: doit](http://pydoit.org/) - A task runner/build tool.
 * [:earth_americas: Joblib](http://pythonhosted.org/joblib/index.html) - A set of tools to provide lightweight pipelining in Python.
 * [:octocat: Plan](https://github.com/fengsp/plan) - :star: 895 :fork_and_knife: 63 - Writing crontab file in Python like a charm.
@@ -1202,5 +1202,5 @@ List of lists.
     * [:octocat: python_reference](https://github.com/rasbt/python_reference) - :star: 1581 :fork_and_knife: 306
     * [:octocat: pythonidae](https://github.com/svaksha/pythonidae) - :star: 386 :fork_and_knife: 74
 * Monty
-    * [:octocat: awesome](https://github.com/sindresorhus/awesome) - :star: 36944 :fork_and_knife: 4160
+    * [:octocat: awesome](https://github.com/sindresorhus/awesome) - :star: 36946 :fork_and_knife: 4160
     * [:octocat: lists](https://github.com/jnv/lists) - :star: 3833 :fork_and_knife: 272
