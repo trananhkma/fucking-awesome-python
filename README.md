@@ -315,6 +315,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:earth_americas: Passlib](https://pythonhosted.org/passlib/) - Secure password storage/hashing library, very high level.
 * [:earth_americas: PyCrypto](https://www.dlitz.net/software/pycrypto/) - The Python Cryptography Toolkit.
 * [:octocat: PyNacl](https://github.com/pyca/pynacl) - :star: 557 :fork_and_knife: 117 - Python binding to the Networking and Cryptography (NaCl) library.
+* [:octocat: Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistent asymmetric key generation tool for digital signatures.
 
 ## Data Analysis
 
