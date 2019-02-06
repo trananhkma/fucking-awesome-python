@@ -21,6 +21,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     - [Computer Vision](#computer-vision)
     - [Concurrency and Parallelism](#concurrency-and-parallelism)
     - [Configuration](#configuration)
+    - [CRM](#CRM)
     - [Cryptography](#cryptography)
     - [Data Analysis](#data-analysis)
     - [Data Validation](#data-validation)
@@ -306,6 +307,10 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:earth_americas: ConfigParser](https://docs.python.org/2/library/configparser.html) - (Python standard library) INI file parser.
 * [:earth_americas: profig](http://profig.readthedocs.org/en/default/) - Config from multiple formats with value conversion.
 * [:octocat: python-decouple](https://github.com/henriquebastos/python-decouple) - :star: 890 :fork_and_knife: 72 - Strict separation of settings from code.
+
+## CRM
+
+* [:octocat: Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 
 ## Cryptography
 
