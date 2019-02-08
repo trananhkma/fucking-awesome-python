@@ -600,7 +600,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Awesome game development libraries.*
 
 * [:earth_americas: Cocos2d](http://cocos2d.org/) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications. It is based on pyglet.
-* [:earth_americas: Harfang3D](https://www.harfang3d.org/) - HARFANG® is a software framework for 3D, VR and multimedia application development. Written in C++, bound to Python and Lua.
+* [:earth_americas: Harfang3D](https://www.harfang3d.com/) - HARFANG® is a software framework for 3D, VR and multimedia application development. Written in C++, bound to Python and Lua.
 * [:earth_americas: Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney and maintained by Carnegie Mellon's Entertainment Technology Center. Written in C++, completely wrapped in Python.
 * [:earth_americas: Pygame](http://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
 * [:earth_americas: PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
