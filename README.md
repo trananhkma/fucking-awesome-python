@@ -1079,6 +1079,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     * [:octocat: python-nameparser](https://github.com/derek73/python-nameparser) - :star: 314 :fork_and_knife: 52 - Parsing human names into their individual components.
     * [:octocat: python-user-agents](https://github.com/selwin/python-user-agents) - :star: 864 :fork_and_knife: 147 - Browser user agent parser.
     * [:octocat: sqlparse](https://github.com/andialbrecht/sqlparse) - :star: 1550 :fork_and_knife: 335 - A non-validating SQL parser.
+     * [:octocat: lark](https://github.com/lark-parser/lark) - a modern parsing library for Python.
 
 ## Third-party APIs
 
