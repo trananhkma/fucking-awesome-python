@@ -416,6 +416,8 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     * [:octocat: pyringe](https://github.com/google/pyringe) - :star: 1516 :fork_and_knife: 65 - Debugger capable of attaching to and injecting code into Python processes.
     * [:octocat: wdb](https://github.com/Kozea/wdb) - :star: 1387 :fork_and_knife: 84 - An improbable web debugger through WebSockets.
     * [:earth_americas: winpdb](http://winpdb.org/) - A Python Debugger with GUI, capable of remote debugging based on `rpdb2`.
+    * [:octocat: trepan2](https://github.com/rocky/python2-trepan/) - :star: 84 :fork_and_knife: 12 - A GDB-like Python 2 Debugger with code deparsing for exact location information.
+    * [:octocat: trepan3k](https://github.com/rocky/python3-trepan/) - :star: 68 :fork_and_knife: 9 - A GDB-like Python 3 Debugger with code deparsing for exact location information.
 * Profiler
     * [:octocat: line_profiler](https://github.com/rkern/line_profiler) - :star: 2824 :fork_and_knife: 194 - Line-by-line profiling.
     * [:octocat: memory_profiler](https://github.com/fabianp/memory_profiler) - :star: 34 :fork_and_knife: 5 - Monitor Memory usage of Python code.
@@ -1252,4 +1254,3 @@ List of lists.
     * [:octocat: python-github-projects](https://github.com/checkcheckzz/python-github-projects) - :star: 548 :fork_and_knife: 152
     * [:octocat: python_reference](https://github.com/rasbt/python_reference) - :star: 2149 :fork_and_knife: 552
     * [:octocat: pythonidae](https://github.com/svaksha/pythonidae) - :star: 709 :fork_and_knife: 154
-
