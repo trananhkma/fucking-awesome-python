@@ -136,7 +136,6 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:octocat: django-pipeline](https://github.com/jazzband/django-pipeline) - :star: 1320 :fork_and_knife: 323 - An asset packaging library for Django.
 * [:octocat: django-storages](https://github.com/jschneier/django-storages) - :star: 1253 :fork_and_knife: 542 - A collection of custom storage back ends for Django.
 * [:earth_americas: fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
-* [:earth_americas: fileconveyor](http://fileconveyor.org/) - A daemon to detect and sync files to CDNs, S3 and FTP.
 * [:octocat: flask-assets](https://github.com/miracle2k/flask-assets) - :star: 379 :fork_and_knife: 83 - Helps you integrate webassets into your Flask app.
 * [:octocat: jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) - :star: 88 :fork_and_knife: 11 - A Jinja extension to compile and compress your assets.
 * [:octocat: webassets](https://github.com/miracle2k/webassets) - :star: 868 :fork_and_knife: 249 - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
