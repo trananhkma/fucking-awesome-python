@@ -1151,6 +1151,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * Unique identifiers
     * [:octocat: hashids](https://github.com/davidaurelio/hashids-python) - :star: 1129 :fork_and_knife: 84 - Implementation of [hashids](http://hashids.org) in Python.
     * [:octocat: shortuuid](https://github.com/skorokithakis/shortuuid) - :star: 1338 :fork_and_knife: 84 - A generator library for concise, unambiguous and URL-safe UUIDs.
+    * [:octocat: sargon](https://github.com/santiagobasulto/sargon) - :star: 1 :fork_and_knife: 1 - Extensible library to generate random Heroku/Youtube like codes.
 * Parser
     * [:octocat: ply](https://github.com/dabeaz/ply) - :star: 1770 :fork_and_knife: 306 - Implementation of lex and yacc parsing tools for Python.
     * [:earth_americas: pygments](http://pygments.org/) - A generic syntax highlighter.
