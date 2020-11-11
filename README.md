@@ -76,6 +76,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     - [Search](#search)
     - [Serialization](#serialization)
     - [Serverless Frameworks](#serverless-frameworks)
+    - [Shells](#shells)
     - [Specific Formats Processing](#specific-formats-processing)
     - [Static Site Generator](#static-site-generator)
     - [Tagging](#tagging)
@@ -1026,6 +1027,12 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * [:octocat: python-lambda](https://github.com/nficano/python-lambda) - :star: 1188 :fork_and_knife: 204 - A toolkit for developing and deploying Python code in AWS Lambda.
 * [:octocat: Zappa](https://github.com/Miserlou/Zappa) - :star: 11198 :fork_and_knife: 1204 - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+
+## Shells
+
+*Python-powered shells.*
+
+* [:octocat: xonsh](https://github.com/xonsh/xonsh) - :star: 4039 :fork_and_knife: 440 - A Python-powered, cross-platform, Unix-gazing shell language and command prompt. 
 
 ## Specific Formats Processing
 
