@@ -1299,6 +1299,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:octocat: autobahn-python](https://github.com/crossbario/autobahn-python) - :star: 2227 :fork_and_knife: 622 - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [:octocat: channels](https://github.com/django/channels) - :star: 4649 :fork_and_knife: 645 - Developer-friendly asynchrony for Django.
 * [:octocat: websockets](https://github.com/aaugustin/websockets) - :star: 3027 :fork_and_knife: 343 - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+* [:octocat: WSocket](https://github.com/Ksengine/wsocket) - :star: 3 :fork_and_knife: 1 - Simple WSGI HTTP + Websocket - Server, Framework, Middleware(Websocket for any WSGI framework) And App.
 
 ## WSGI Servers
 
