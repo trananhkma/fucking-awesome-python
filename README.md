@@ -1332,6 +1332,8 @@ Where to discover learning resources or new Python libraries.
     * [:earth_americas: Python ZEEF](https://python.zeef.com/alan.richmond)
     * [:earth_americas: Pythonic News](https://news.python.sc/)
     * [:octocat: What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - :star: 26556 :fork_and_knife: 2208
+* Projects
+    * [:earth_americas: DevProjects - Free Python Projects](https://www.codementor.io/projects/python)
 
 ## Newsletters
 
