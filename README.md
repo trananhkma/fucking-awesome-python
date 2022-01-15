@@ -921,6 +921,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:earth_americas: pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
     * [:octocat: pip-tools](https://github.com/jazzband/pip-tools) - :star: 5423 :fork_and_knife: 477 - A set of tools to keep your pinned Python dependencies fresh.
     * [:earth_americas: PyPI](https://pypi.org/)
+    * [:octocat: pipx](https://github.com/pypa/pipx) - :star: 4504 :fork_and_knife: 215 - A package manager exclusive for python CLIs built on top of pip.
 * [:octocat: conda](https://github.com/conda/conda/) - :star: 4455 :fork_and_knife: 1115 - Cross-platform, Python-agnostic binary package manager.
 * [:octocat: poetry](https://github.com/sdispater/poetry) - :star: 17718 :fork_and_knife: 1473 - Python dependency management and packaging made easy.
 
