@@ -4,6 +4,8 @@ A curated list with Github stars and forks stats based on awesome [awesome-pytho
 
 Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-go).
 
+- Get startd with [Basic Python Resources](https://github.com/thegeekyb0y/learnpython)
+
 - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
@@ -1314,6 +1316,10 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 # Resources
 
 Where to discover learning resources or new Python libraries.
+
+## Core
+
+Get Started with these  [Basic Python Resources](https://github.com/thegeekyb0y/learnpython)
 
 ## Books
 
