@@ -904,6 +904,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     * [:octocat: dataset](https://github.com/pudo/dataset) - :star: 4193 :fork_and_knife: 285 - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     * [:octocat: orator](https://github.com/sdispater/orator) - :star: 1353 :fork_and_knife: 166 -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     * [:octocat: orm](https://github.com/encode/orm) - :star: 1630 :fork_and_knife: 93 - An async ORM.
+    * [:octocat: ormar](https://github.com/encode/orm) - :star: 1057 :fork_and_knife: 59 - Ormar is an async ORM that uses Pydantic validation and can be used directly in FastAPI requests and responses so you are left with only one set of models to maintain. Alembic migrations included.
     * [:octocat: peewee](https://github.com/coleifer/peewee) - :star: 9378 :fork_and_knife: 1348 - A small, expressive ORM.
     * [:octocat: pony](https://github.com/ponyorm/pony/) - :star: 3003 :fork_and_knife: 217 - ORM that provides a generator-oriented interface to SQL.
     * [:octocat: pydal](https://github.com/web2py/pydal/) - :star: 432 :fork_and_knife: 128 - A pure Python Database Abstraction Layer.
