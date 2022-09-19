@@ -1328,6 +1328,8 @@ Where to discover learning resources or new Python libraries.
     * [:octocat: Ultimate Python study guide](https://github.com/huangsam/ultimate-python) - :star: 3767 :fork_and_knife: 375
 * Libraries
     * [:earth_americas: Awesome Python @LibHunt](https://python.libhunt.com/)
+    * [:earth_americas: Explore Python @kandi](https://kandi.openweaver.com/explore/python) - Discover & find a curated list of popular & new python libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
+
 * Others
     * [:earth_americas: Python ZEEF](https://python.zeef.com/alan.richmond)
     * [:earth_americas: Pythonic News](https://news.python.sc/)
