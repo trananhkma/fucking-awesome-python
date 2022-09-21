@@ -853,6 +853,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * [:octocat: blinker](https://github.com/jek/blinker) - :star: 1409 :fork_and_knife: 168 - A fast Python in-process signal/event dispatching system.
 * [:octocat: boltons](https://github.com/mahmoud/boltons) - :star: 5869 :fork_and_knife: 324 - A set of pure-Python utilities.
+* [:octocat: freshenv](https://github.com/raiyanyahya/freshenv) - :star: 111 :fork_and_knife: 3 - Provision, share, manage local and cloud developer environments.
 * [:octocat: itsdangerous](https://github.com/pallets/itsdangerous) - :star: 2528 :fork_and_knife: 212 - Various helpers to pass trusted data to untrusted environments.
 * [:octocat: magenta](https://github.com/magenta/magenta) - :star: 17887 :fork_and_knife: 3651 - A tool to generate music and art using artificial intelligence.
 * [:octocat: pluginbase](https://github.com/mitsuhiko/pluginbase) - :star: 1029 :fork_and_knife: 144 - A simple but flexible plugin system for Python.
