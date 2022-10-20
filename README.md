@@ -1325,6 +1325,7 @@ Where to discover learning resources or new Python libraries.
     * [:earth_americas: Full Stack Python](https://www.fullstackpython.com/)
     * [:earth_americas: Python Cheatsheet](https://www.pythoncheatsheet.org/)
     * [:earth_americas: Real Python](https://realpython.com)
+    * [:earth_americas: Python Tutorials](https://www.scaler.com/topics/python/)
     * [:earth_americas: The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
     * [:octocat: Ultimate Python study guide](https://github.com/huangsam/ultimate-python) - :star: 3822 :fork_and_knife: 381
 * Libraries
