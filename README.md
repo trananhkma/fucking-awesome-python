@@ -1339,6 +1339,8 @@ Where to discover learning resources or new Python libraries.
 * [:earth_americas: Pycoder's Weekly](http://pycoders.com/)
 * [:earth_americas: Python Tricks](https://realpython.com/python-tricks/)
 * [:earth_americas: Python Weekly](http://www.pythonweekly.com/)
+* [:earth_americas: Dan's Python](https://dbader.org/newsletter/)
+* [:earth_americas: PyNative Newsletter](https://pynative.com/newsletter/)
 
 ## Podcasts
 
@@ -1349,6 +1351,7 @@ Where to discover learning resources or new Python libraries.
 * [:earth_americas: Talk Python To Me](https://talkpython.fm/)
 * [:earth_americas: Test and Code](https://testandcode.com/)
 * [:earth_americas: The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+* [:earth_americas: Teaching Python](https://www.teachingpython.fm/)
 
 # Contributing
 
